@@ -18,5 +18,5 @@ run the script by entering "python code.pl"
 This code takes txt file as an input that contains a binary matrix where presence of TFs is marked as 1 (True)and absence is marked as 0 (False) across each row containing individual enhancers ID. 
 
 > Output:
-This code will print an output containing metrics like support, confidence and lift to evaluate the strength and significance of TFs associations.
+This code will creat an output file in txt format containing metrics like support, confidence and lift to evaluate the strength and significance of TFs associations.
 
