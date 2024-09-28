@@ -31,12 +31,21 @@ frequent_itemsets = apriori(df, min_support=0.1, use_colnames=True)
 
 print("Frequent Itemsets:")
 print(frequent_itemsets)
-from mlxtend.frequent_patterns import association_rules
 
-# Assuming frequent_itemsets is already calculated
-rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.1)
+# Step 4: Calculate association rules with a minimum confidence threshold
+rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.6)
 
-# Display the rules, including the confidence score
-print("Association Rules:")
-print(rules[['antecedents', 'consequents', 'antecedent support', 'consequent support', 'support', 'confidence', 'lift', 'leverage']])
+# Select antecedents, consequents, and relevant metrics (support, confidence, lift)
+rules_filtered = rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']]
+
+# Save the association rules to a text file
+output_file = 'association_rules_with_values.txt'
+
+# Write the results to a text file
+with open(output_file, 'w') as f:
+    f.write("Association Rules (Antecedents, Consequents, Support, Confidence, Lift):\n")
+    f.write(rules_filtered.to_string(index=False))
+
+print(f"Association rules with support, confidence, and lift values have been saved to {output_file}")
+
 
