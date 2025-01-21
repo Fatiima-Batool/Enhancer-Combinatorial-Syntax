@@ -21,7 +21,7 @@ This Python script identifies CRMs containing specific regulatory grammar in a g
    ```
 
 ## Input Files
-- This code takes txt file as an input that contains a unique identifier (CRM ID) for each CRM, start coordinates, end coordinates and detailed transcription factor binding profile.
+- This code takes txt file as an input that contains a unique identifier (CRM ID) for each CRM, and detailed transcription factor binding profile.
 
 
 
