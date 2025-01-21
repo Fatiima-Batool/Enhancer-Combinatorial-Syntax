@@ -1,0 +1,1654 @@
+chr1_crm_1	HES5, NGN2, HES5, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_2	OTX1, OTX2, NGN2, HES5, HES5, FOXP2               
+chr1_crm_3	HES5, NGN2, NGN2, FOXP2, HES5, OTX1, OTX2              
+chr1_crm_4	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_5	HES5, FOXP2, HES5, HES5, OTX1, OTX2, GATA3              
+chr1_crm_6	OTX1, OTX2, GATA3, NGN2, FOXP2, NGN2, HES5, GATA3, FOXP2, HES5           
+chr1_crm_7	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_8	OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, NGN2              
+chr1_crm_9	GATA3, FOXP2, NGN2, OTX1, OTX2, FOXP2, OTX1, OTX2             
+chr1_crm_10	HES5, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2, GATA3, NGN2, NGN2           
+chr1_crm_11	OTX1, OTX2, NGN2, FOXP2, HES5                
+chr1_crm_12	OTX2, OTX2, HES5, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_13	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_14	OTX1, OTX2, FOXP2, HES5, GATA3, GATA3, HES5              
+chr1_crm_15	HES5, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_16	HES5, OTX1, OTX2, HES5, HES5, GATA3, HES5, NGN2, GATA3            
+chr1_crm_17	GATA3, OTX1, OTX2, FOXP2, HES5, HES5               
+chr1_crm_18	NGN2, FOXP2, OTX1, OTX2, HES5, HES5               
+chr1_crm_19	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_20	OTX1, OTX2, HES5, FOXP2, GATA3, HES5               
+chr1_crm_21	OTX2, OTX2, OTX1, OTX2, NGN2, GATA3, HES5              
+chr1_crm_22	GATA3, GATA3, FOXP2, OTX1, OTX2, HES5               
+chr1_crm_23	OTX1, OTX2, GATA3, HES5, OTX2, OTX2, HES5, NGN2             
+chr1_crm_24	OTX1, OTX2, NGN2, GATA3, FOXP2                
+chr1_crm_25	GATA3, OTX1, OTX2, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, HES5, NGN2, HES5
+chr1_crm_26	NGN2, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_27	GATA3, HES5, OTX1, OTX2, NGN2, NGN2, HES5, HES5, HES5            
+chr1_crm_28	FOXP2, GATA3, GATA3, HES5, OTX1, OTX2               
+chr1_crm_29	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_30	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_31	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_32	FOXP2, NGN2, GATA3, HES5, OTX1, OTX2               
+chr1_crm_33	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_34	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_35	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_36	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_37	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_38	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_39	NGN2, HES5, OTX1, OTX2, OTX2, OTX2, GATA3              
+chr1_crm_40	NGN2, HES5, OTX1, OTX2, OTX2, OTX2, GATA3              
+chr1_crm_41	OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, GATA3, FOXP2, HES5            
+chr1_crm_42	HES5, NGN2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_43	GATA3, GATA3, HES5, NGN2, GATA3, OTX1, OTX2              
+chr1_crm_44	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_45	FOXP2, HES5, OTX1, OTX2, HES5, NGN2               
+chr1_crm_46	HES5, GATA3, NGN2, NGN2, FOXP2, OTX1, OTX2              
+chr1_crm_47	FOXP2, NGN2, GATA3, OTX1, OTX2, HES5               
+chr1_crm_48	GATA3, FOXP2, FOXP2, OTX1, OTX2, HES5, NGN2              
+chr1_crm_49	GATA3, NGN2, OTX1, OTX2, HES5                
+chr1_crm_50	HES5, NGN2, FOXP2, FOXP2, OTX1, OTX2, NGN2, GATA3             
+chr1_crm_51	HES5, HES5, OTX2, OTX2, FOXP2, NGN2, GATA3, FOXP2             
+chr1_crm_52	NGN2, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_53	OTX1, OTX2, FOXP2, HES5, NGN2, GATA3, FOXP2, FOXP2             
+chr1_crm_54	GATA3, OTX1, OTX2, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_55	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_56	HES5, HES5, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_57	FOXP2, FOXP2, FOXP2, OTX1, OTX2, FOXP2, FOXP2, HES5, OTX1, OTX2, NGN2          
+chr1_crm_58	GATA3, NGN2, OTX1, OTX2, FOXP2                
+chr1_crm_59	HES5, FOXP2, HES5, OTX1, OTX2, GATA3, HES5              
+chr1_crm_60	NGN2, FOXP2, GATA3, OTX1, OTX2, HES5, HES5              
+chr1_crm_61	HES5, GATA3, NGN2, FOXP2, OTX1, OTX2, GATA3              
+chr1_crm_62	NGN2, FOXP2, OTX1, OTX2, HES5, HES5, HES5              
+chr1_crm_63	OTX1, OTX2, FOXP2, HES5, HES5, GATA3, FOXP2, FOXP2, HES5, HES5           
+chr1_crm_64	NGN2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_65	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_66	NGN2, GATA3, NGN2, HES5, OTX1, OTX2               
+chr1_crm_67	GATA3, OTX1, OTX2, NGN2, HES5, HES5, HES5, NGN2, HES5            
+chr1_crm_68	FOXP2, OTX1, OTX2, OTX1, OTX2, NGN2, GATA3, NGN2             
+chr1_crm_69	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_70	OTX1, OTX2, OTX2, OTX2, HES5, GATA3, NGN2              
+chr1_crm_71	OTX1, OTX1, OTX2, NGN2, FOXP2, GATA3, NGN2              
+chr1_crm_72	GATA3, HES5, OTX1, OTX2, NGN2, OTX1, OTX2              
+chr1_crm_73	FOXP2, NGN2, OTX1, OTX2, GATA3, HES5               
+chr1_crm_74	GATA3, FOXP2, OTX1, OTX2, HES5, HES5, NGN2              
+chr1_crm_75	NGN2, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_76	NGN2, GATA3, GATA3, HES5, OTX1, OTX2               
+chr1_crm_77	FOXP2, HES5, HES5, NGN2, OTX1, OTX2               
+chr1_crm_78	OTX1, OTX2, NGN2, HES5, HES5, GATA3               
+chr1_crm_79	NGN2, OTX1, OTX2, HES5, NGN2, GATA3, HES5, HES5, FOXP2            
+chr1_crm_80	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_81	HES5, OTX1, OTX2, FOXP2, HES5, NGN2               
+chr1_crm_82	NGN2, NGN2, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_83	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_84	GATA3, FOXP2, GATA3, OTX1, OTX2, HES5               
+chr1_crm_85	OTX1, OTX2, HES5, NGN2, FOXP2                
+chr1_crm_86	FOXP2, OTX1, OTX2, NGN2, HES5                
+chr1_crm_87	NGN2, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_88	HES5, OTX1, OTX2, GATA3, NGN2, GATA3               
+chr1_crm_89	NGN2, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_90	HES5, NGN2, OTX1, OTX2, FOXP2, NGN2               
+chr1_crm_91	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_92	HES5, GATA3, NGN2, OTX1, OTX2, FOXP2, HES5              
+chr1_crm_93	NGN2, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_94	HES5, OTX1, OTX2, OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2, GATA3         
+chr1_crm_95	OTX1, OTX2, FOXP2, NGN2, HES5                
+chr1_crm_96	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_97	OTX1, OTX2, FOXP2, GATA3, HES5                
+chr1_crm_98	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_99	OTX1, OTX2, FOXP2, HES5, HES5, NGN2, NGN2, HES5, FOXP2, FOXP2, HES5          
+chr1_crm_100	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_101	NGN2, HES5, FOXP2, HES5, GATA3, GATA3, NGN2, OTX2, OTX2            
+chr1_crm_102	OTX1, OTX2, NGN2, HES5, GATA3                
+chr1_crm_103	GATA3, NGN2, OTX1, OTX2, FOXP2                
+chr1_crm_104	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_105	OTX1, OTX2, HES5, HES5, NGN2, GATA3, NGN2, HES5             
+chr1_crm_106	GATA3, FOXP2, HES5, FOXP2, GATA3, OTX1, OTX2, HES5             
+chr1_crm_107	GATA3, GATA3, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_108	FOXP2, OTX2, OTX2, OTX2, OTX2, GATA3, NGN2, OTX1, OTX2, HES5           
+chr1_crm_109	GATA3, HES5, OTX1, OTX2, NGN2, GATA3, NGN2              
+chr1_crm_110	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_111	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_112	NGN2, OTX1, OTX2, GATA3, GATA3, FOXP2, GATA3, OTX1, OTX1, OTX2, OTX1, OTX2, NGN2        
+chr1_crm_113	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_114	FOXP2, OTX1, OTX2, GATA3, HES5, HES5, FOXP2              
+chr1_crm_115	HES5, NGN2, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_116	HES5, FOXP2, FOXP2, OTX1, OTX2, FOXP2, GATA3              
+chr1_crm_117	FOXP2, OTX1, OTX2, HES5, OTX1, OTX2, NGN2, GATA3, HES5, HES5           
+chr1_crm_118	NGN2, OTX1, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_119	NGN2, OTX1, OTX2, HES5, FOXP2, GATA3               
+chr1_crm_120	GATA3, GATA3, GATA3, OTX1, OTX2, HES5, NGN2              
+chr1_crm_121	GATA3, HES5, HES5, FOXP2, OTX1, OTX2, NGN2, HES5             
+chr1_crm_122	FOXP2, OTX2, OTX2, GATA3, NGN2, HES5, HES5              
+chr1_crm_123	OTX1, OTX2, HES5, NGN2, GATA3                
+chr1_crm_124	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_125	OTX1, OTX2, GATA3, FOXP2, OTX1, OTX1, OTX2, NGN2, FOXP2, FOXP2           
+chr1_crm_126	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_127	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_128	GATA3, NGN2, OTX1, OTX2, NGN2, FOXP2, NGN2, FOXP2             
+chr1_crm_129	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_130	FOXP2, OTX1, OTX2, NGN2, HES5                
+chr1_crm_131	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_132	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_133	HES5, GATA3, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_134	FOXP2, NGN2, HES5, OTX1, OTX2                
+chr1_crm_135	GATA3, GATA3, OTX1, OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, HES5           
+chr1_crm_136	GATA3, HES5, OTX1, OTX2, OTX1, OTX2, FOXP2              
+chr1_crm_137	NGN2, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_138	OTX1, OTX2, HES5, NGN2, GATA3                
+chr1_crm_139	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_140	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_141	GATA3, FOXP2, FOXP2, OTX1, OTX2, GATA3, NGN2, HES5             
+chr1_crm_142	NGN2, OTX1, OTX2, HES5, HES5, FOXP2, HES5, NGN2             
+chr1_crm_143	HES5, GATA3, NGN2, OTX1, OTX1, OTX2, NGN2, FOXP2             
+chr1_crm_144	NGN2, GATA3, NGN2, NGN2, HES5, OTX1, OTX2              
+chr1_crm_145	GATA3, FOXP2, NGN2, FOXP2, OTX1, OTX2               
+chr1_crm_146	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_147	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_148	OTX1, OTX2, FOXP2, NGN2, GATA3                
+chr1_crm_149	FOXP2, HES5, NGN2, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_150	HES5, OTX1, OTX1, OTX2, GATA3, FOXP2, NGN2              
+chr1_crm_151	HES5, OTX1, OTX2, GATA3, FOXP2, HES5               
+chr1_crm_152	OTX1, OTX2, GATA3, FOXP2, HES5, NGN2, HES5              
+chr1_crm_153	HES5, HES5, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_154	NGN2, HES5, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_155	OTX1, OTX2, GATA3, NGN2, HES5                
+chr1_crm_156	OTX1, OTX2, NGN2, GATA3, FOXP2                
+chr1_crm_157	FOXP2, GATA3, NGN2, OTX2, OTX2, HES5               
+chr1_crm_158	GATA3, NGN2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_159	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_160	GATA3, HES5, GATA3, GATA3, GATA3, FOXP2, OTX1, OTX2, HES5, GATA3           
+chr1_crm_161	FOXP2, OTX1, OTX2, GATA3, HES5, HES5, HES5, HES5, GATA3            
+chr1_crm_162	NGN2, GATA3, GATA3, OTX1, OTX2, HES5, HES5, NGN2, GATA3, HES5, HES5, NGN2, HES5        
+chr1_crm_163	FOXP2, GATA3, HES5, HES5, FOXP2, OTX1, OTX2              
+chr1_crm_164	GATA3, GATA3, OTX1, OTX2, FOXP2, NGN2, HES5              
+chr1_crm_165	HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2               
+chr1_crm_166	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_167	GATA3, NGN2, OTX1, OTX1, OTX2, HES5               
+chr1_crm_168	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_169	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_170	FOXP2, NGN2, GATA3, OTX1, OTX2, GATA3               
+chr1_crm_171	OTX1, OTX2, HES5, NGN2, NGN2, FOXP2               
+chr1_crm_172	GATA3, NGN2, GATA3, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_173	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_174	FOXP2, OTX1, OTX2, GATA3, GATA3, HES5               
+chr1_crm_175	OTX1, OTX2, FOXP2, HES5, OTX2, OTX2, FOXP2, NGN2             
+chr1_crm_176	HES5, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_177	HES5, HES5, HES5, GATA3, NGN2, OTX1, OTX2              
+chr1_crm_178	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_179	HES5, FOXP2, NGN2, NGN2, OTX1, OTX2, NGN2, FOXP2             
+chr1_crm_180	GATA3, FOXP2, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_181	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_182	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_183	GATA3, FOXP2, OTX1, OTX2, GATA3, HES5               
+chr1_crm_184	HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2               
+chr1_crm_185	GATA3, FOXP2, HES5, NGN2, OTX1, OTX2, FOXP2              
+chr1_crm_186	HES5, GATA3, GATA3, HES5, OTX1, OTX2, NGN2              
+chr1_crm_187	GATA3, HES5, OTX1, OTX2, NGN2, FOXP2, OTX1, OTX1, OTX2            
+chr1_crm_188	FOXP2, HES5, GATA3, OTX1, OTX2, GATA3               
+chr1_crm_189	OTX1, OTX2, NGN2, GATA3, HES5, HES5               
+chr1_crm_190	NGN2, HES5, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_191	FOXP2, FOXP2, NGN2, OTX1, OTX2, GATA3               
+chr1_crm_192	HES5, FOXP2, FOXP2, GATA3, GATA3, OTX1, OTX2              
+chr1_crm_193	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_194	OTX1, OTX2, NGN2, FOXP2, HES5, NGN2, FOXP2, GATA3             
+chr1_crm_195	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_196	HES5, FOXP2, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_197	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_198	GATA3, NGN2, GATA3, FOXP2, FOXP2, FOXP2, OTX1, OTX2, HES5, FOXP2           
+chr1_crm_199	GATA3, OTX1, OTX2, HES5, FOXP2, FOXP2               
+chr1_crm_200	HES5, OTX1, OTX2, OTX1, OTX1, OTX2, GATA3, FOXP2             
+chr1_crm_201	HES5, NGN2, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_202	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_203	FOXP2, FOXP2, OTX1, OTX2, HES5, HES5, GATA3              
+chr1_crm_204	HES5, GATA3, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_205	NGN2, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_206	GATA3, HES5, OTX1, OTX1, OTX2, NGN2, GATA3, FOXP2, FOXP2            
+chr1_crm_207	FOXP2, OTX1, OTX2, GATA3, NGN2, GATA3               
+chr1_crm_208	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_209	FOXP2, HES5, OTX1, OTX2, GATA3, GATA3               
+chr1_crm_210	GATA3, FOXP2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_211	OTX1, OTX2, GATA3, FOXP2, NGN2                
+chr1_crm_212	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_213	NGN2, OTX1, OTX1, OTX2, FOXP2, HES5, FOXP2              
+chr1_crm_214	OTX1, OTX1, OTX2, HES5, HES5, FOXP2, GATA3              
+chr1_crm_215	GATA3, HES5, OTX1, OTX2, GATA3, FOXP2, GATA3, HES5, OTX1, OTX2           
+chr1_crm_216	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_217	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_218	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_219	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_220	NGN2, FOXP2, FOXP2, OTX1, OTX2, OTX1, OTX2, NGN2, GATA3, GATA3           
+chr1_crm_221	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_222	FOXP2, OTX1, OTX2, NGN2, FOXP2, HES5, FOXP2              
+chr1_crm_223	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_224	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_225	OTX2, OTX2, FOXP2, HES5, NGN2, FOXP2, GATA3              
+chr1_crm_226	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_227	HES5, FOXP2, HES5, FOXP2, NGN2, OTX1, OTX2              
+chr1_crm_228	HES5, OTX1, OTX2, FOXP2, GATA3, FOXP2, GATA3              
+chr1_crm_229	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_230	FOXP2, GATA3, HES5, OTX1, OTX2, HES5, NGN2              
+chr1_crm_231	FOXP2, FOXP2, FOXP2, FOXP2, NGN2, OTX1, OTX2, OTX1, OTX2, HES5, HES5          
+chr1_crm_232	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_233	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_234	OTX1, OTX2, FOXP2, GATA3, HES5, NGN2, HES5, NGN2, HES5, NGN2, FOXP2          
+chr1_crm_235	OTX1, OTX2, HES5, GATA3, FOXP2, GATA3, HES5, OTX1, OTX2            
+chr1_crm_236	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_237	HES5, NGN2, HES5, FOXP2, OTX1, OTX2, GATA3, FOXP2             
+chr1_crm_238	HES5, FOXP2, GATA3, HES5, HES5, HES5, OTX1, OTX2, GATA3            
+chr1_crm_239	FOXP2, NGN2, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_240	FOXP2, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_241	OTX1, OTX2, GATA3, FOXP2, NGN2, FOXP2, HES5              
+chr1_crm_242	NGN2, NGN2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_243	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_244	OTX1, OTX2, HES5, FOXP2, FOXP2, GATA3               
+chr1_crm_245	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_246	HES5, OTX1, OTX2, GATA3, GATA3, NGN2               
+chr1_crm_247	OTX1, OTX2, GATA3, NGN2, HES5, NGN2, HES5, HES5, NGN2            
+chr1_crm_248	GATA3, HES5, NGN2, GATA3, OTX1, OTX1, OTX2, FOXP2             
+chr1_crm_249	NGN2, OTX1, OTX2, GATA3, HES5, GATA3               
+chr1_crm_250	HES5, OTX1, OTX2, GATA3, FOXP2, GATA3, GATA3, FOXP2             
+chr1_crm_251	NGN2, HES5, HES5, GATA3, GATA3, FOXP2, HES5, OTX1, OTX2            
+chr1_crm_252	NGN2, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_253	FOXP2, HES5, FOXP2, GATA3, HES5, NGN2, OTX1, OTX2, FOXP2            
+chr1_crm_254	NGN2, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_255	HES5, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_256	HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2, HES5, HES5             
+chr1_crm_257	OTX1, OTX2, HES5, NGN2, OTX1, OTX2, OTX1, OTX2, GATA3            
+chr1_crm_258	GATA3, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_259	HES5, NGN2, FOXP2, FOXP2, OTX1, OTX2               
+chr1_crm_260	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_261	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_262	OTX1, OTX2, HES5, GATA3, OTX1, OTX2, FOXP2              
+chr1_crm_263	FOXP2, FOXP2, HES5, FOXP2, OTX1, OTX2, NGN2, FOXP2             
+chr1_crm_264	OTX1, OTX2, GATA3, HES5, NGN2, NGN2, FOXP2, GATA3, NGN2            
+chr1_crm_265	HES5, FOXP2, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_266	FOXP2, GATA3, HES5, OTX1, OTX2, GATA3, OTX1, OTX2             
+chr1_crm_267	GATA3, GATA3, FOXP2, GATA3, FOXP2, OTX1, OTX2, HES5             
+chr1_crm_268	GATA3, FOXP2, FOXP2, GATA3, HES5, OTX2, OTX2, NGN2, GATA3, GATA3, HES5, NGN2, GATA3        
+chr1_crm_269	FOXP2, OTX1, OTX2, GATA3, HES5, OTX1, OTX2              
+chr1_crm_270	GATA3, NGN2, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_271	FOXP2, OTX1, OTX2, HES5, FOXP2, OTX2, OTX2, GATA3, OTX1, OTX2           
+chr1_crm_272	HES5, GATA3, FOXP2, HES5, OTX1, OTX2, GATA3, HES5, FOXP2            
+chr1_crm_273	OTX1, OTX2, HES5, NGN2, GATA3, GATA3, GATA3              
+chr1_crm_274	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_275	NGN2, GATA3, HES5, OTX1, OTX2, GATA3               
+chr1_crm_276	OTX1, OTX2, FOXP2, GATA3, HES5                
+chr1_crm_277	HES5, GATA3, OTX1, OTX2, FOXP2, FOXP2, HES5              
+chr1_crm_278	GATA3, OTX1, OTX2, NGN2, NGN2, HES5, NGN2              
+chr1_crm_279	OTX1, OTX2, HES5, HES5, NGN2, GATA3               
+chr1_crm_280	GATA3, GATA3, NGN2, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_281	HES5, OTX1, GATA3, OTX1, OTX2, HES5, NGN2              
+chr1_crm_282	FOXP2, NGN2, OTX1, OTX2, OTX1, OTX1, OTX2, HES5, GATA3, GATA3, FOXP2          
+chr1_crm_283	GATA3, FOXP2, NGN2, OTX1, OTX2, HES5               
+chr1_crm_284	HES5, FOXP2, OTX1, OTX2, NGN2, NGN2, FOXP2, HES5, HES5, NGN2, NGN2, OTX1, OTX2        
+chr1_crm_285	FOXP2, FOXP2, NGN2, OTX1, OTX2, HES5, FOXP2, GATA3, GATA3, HES5           
+chr1_crm_286	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_287	GATA3, FOXP2, NGN2, GATA3, FOXP2, OTX1, OTX2, GATA3, OTX1, OTX2, GATA3, FOXP2         
+chr1_crm_288	NGN2, FOXP2, GATA3, OTX1, OTX2, GATA3, HES5              
+chr1_crm_289	FOXP2, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_290	FOXP2, OTX1, OTX2, OTX1, OTX2, NGN2, FOXP2, GATA3, FOXP2            
+chr1_crm_291	FOXP2, OTX1, OTX1, OTX2, NGN2, HES5               
+chr1_crm_292	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_293	OTX1, OTX2, HES5, NGN2, GATA3, HES5               
+chr1_crm_294	FOXP2, FOXP2, OTX1, OTX2, HES5, FOXP2, NGN2, HES5             
+chr1_crm_295	FOXP2, HES5, GATA3, HES5, GATA3, GATA3, NGN2, OTX1, OTX2, NGN2           
+chr1_crm_296	GATA3, OTX1, OTX2, HES5, HES5, NGN2, GATA3, HES5             
+chr1_crm_297	HES5, FOXP2, GATA3, OTX1, OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2           
+chr1_crm_298	FOXP2, HES5, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_299	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_300	FOXP2, NGN2, GATA3, FOXP2, OTX1, OTX2, OTX1, OTX2             
+chr1_crm_301	NGN2, NGN2, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_302	OTX1, OTX2, FOXP2, GATA3, GATA3, HES5               
+chr1_crm_303	FOXP2, OTX1, OTX2, FOXP2, NGN2, FOXP2, GATA3, FOXP2, FOXP2, HES5           
+chr1_crm_304	FOXP2, OTX2, OTX2, HES5, OTX1, OTX2, HES5, GATA3             
+chr1_crm_305	OTX1, OTX2, HES5, NGN2, HES5, FOXP2, NGN2              
+chr1_crm_306	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_307	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_308	HES5, NGN2, HES5, HES5, GATA3, FOXP2, HES5, OTX1, OTX2            
+chr1_crm_309	HES5, FOXP2, FOXP2, FOXP2, GATA3, OTX1, OTX2, FOXP2             
+chr1_crm_310	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_311	GATA3, GATA3, FOXP2, HES5, FOXP2, OTX1, OTX2, NGN2, GATA3            
+chr1_crm_312	OTX1, OTX2, GATA3, FOXP2, NGN2, FOXP2               
+chr1_crm_313	NGN2, HES5, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_314	OTX1, OTX2, GATA3, HES5, GATA3, FOXP2, HES5              
+chr1_crm_315	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_316	NGN2, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_317	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_318	NGN2, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_319	FOXP2, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_320	NGN2, FOXP2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_321	FOXP2, NGN2, OTX1, OTX2, HES5                
+chr1_crm_322	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_323	FOXP2, NGN2, FOXP2, FOXP2, GATA3, NGN2, FOXP2, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2        
+chr1_crm_324	OTX1, OTX2, OTX2, FOXP2, NGN2, OTX1, OTX2, FOXP2, OTX1, OTX1, OTX2, GATA3, FOXP2        
+chr1_crm_325	FOXP2, FOXP2, GATA3, GATA3, HES5, NGN2, OTX1, OTX2             
+chr1_crm_326	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_327	OTX1, OTX2, FOXP2, GATA3, NGN2, HES5               
+chr1_crm_328	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_329	NGN2, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_330	NGN2, FOXP2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_331	GATA3, NGN2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_332	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_333	FOXP2, HES5, OTX1, OTX2, NGN2                
+chr1_crm_334	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_335	HES5, NGN2, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_336	GATA3, OTX1, OTX2, NGN2, FOXP2, GATA3               
+chr1_crm_337	GATA3, OTX1, OTX2, FOXP2, HES5, GATA3, FOXP2              
+chr1_crm_338	NGN2, OTX1, OTX2, HES5, OTX1, OTX2, GATA3              
+chr1_crm_339	OTX1, OTX1, OTX2, NGN2, GATA3, HES5               
+chr1_crm_340	FOXP2, FOXP2, FOXP2, OTX1, OTX2, FOXP2, GATA3, FOXP2, FOXP2, HES5           
+chr1_crm_341	OTX1, OTX2, OTX1, OTX2, HES5, GATA3, FOXP2, HES5, OTX1, OTX2           
+chr1_crm_342	OTX1, OTX2, HES5, FOXP2, NGN2, GATA3               
+chr1_crm_343	FOXP2, GATA3, GATA3, NGN2, OTX1, OTX2               
+chr1_crm_344	NGN2, FOXP2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_345	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_346	HES5, FOXP2, NGN2, OTX1, OTX2, HES5               
+chr1_crm_347	HES5, OTX1, OTX1, OTX2, HES5, GATA3, HES5, HES5, HES5, FOXP2           
+chr1_crm_348	GATA3, GATA3, GATA3, OTX1, OTX2, GATA3, HES5, FOXP2             
+chr1_crm_349	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_350	OTX1, OTX2, HES5, FOXP2, GATA3, FOXP2               
+chr1_crm_351	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_352	OTX1, OTX2, FOXP2, GATA3, HES5, HES5               
+chr1_crm_353	GATA3, OTX1, OTX2, FOXP2, HES5, NGN2, NGN2              
+chr1_crm_354	NGN2, FOXP2, OTX1, OTX2, FOXP2, FOXP2, GATA3, GATA3, NGN2, FOXP2           
+chr1_crm_355	OTX1, OTX1, OTX2, HES5, HES5, NGN2, GATA3, FOXP2, OTX1, OTX2           
+chr1_crm_356	FOXP2, GATA3, OTX1, OTX2, HES5, HES5               
+chr1_crm_357	GATA3, FOXP2, NGN2, OTX1, OTX1, OTX2, HES5, OTX2, OTX2            
+chr1_crm_358	NGN2, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_359	OTX1, OTX2, GATA3, OTX1, OTX2, HES5, HES5, NGN2, HES5            
+chr1_crm_360	OTX1, OTX2, GATA3, NGN2, FOXP2, HES5, OTX1, OTX2             
+chr1_crm_361	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_362	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_363	GATA3, HES5, OTX1, OTX2, FOXP2, NGN2, FOXP2              
+chr1_crm_364	HES5, FOXP2, GATA3, HES5, FOXP2, OTX1, OTX2, NGN2             
+chr1_crm_365	OTX1, OTX2, GATA3, FOXP2, NGN2, FOXP2               
+chr1_crm_366	NGN2, OTX1, OTX2, HES5, HES5, FOXP2, NGN2, HES5             
+chr1_crm_367	HES5, GATA3, HES5, OTX1, OTX2, FOXP2, OTX1, OTX2             
+chr1_crm_368	NGN2, HES5, GATA3, HES5, OTX1, OTX2, NGN2, FOXP2, GATA3            
+chr1_crm_369	HES5, HES5, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_370	FOXP2, HES5, OTX1, OTX1, OTX2, GATA3, FOXP2, FOXP2             
+chr1_crm_371	HES5, NGN2, FOXP2, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_372	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_373	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_374	HES5, GATA3, OTX1, OTX2, HES5, FOXP2, HES5, HES5, HES5            
+chr1_crm_375	FOXP2, HES5, OTX1, OTX2, NGN2                
+chr1_crm_376	HES5, NGN2, OTX1, OTX2, FOXP2, FOXP2, OTX1, OTX2             
+chr1_crm_377	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_378	HES5, GATA3, GATA3, OTX1, OTX2, NGN2               
+chr1_crm_379	GATA3, GATA3, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_380	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_381	HES5, NGN2, NGN2, FOXP2, GATA3, OTX1, OTX2              
+chr1_crm_382	OTX1, OTX1, OTX2, FOXP2, HES5, NGN2               
+chr1_crm_383	OTX1, OTX2, FOXP2, OTX1, OTX2, OTX1, OTX2, GATA3, NGN2            
+chr1_crm_384	OTX1, OTX2, FOXP2, NGN2, GATA3, NGN2               
+chr1_crm_385	HES5, OTX1, OTX2, GATA3, GATA3, FOXP2               
+chr1_crm_386	NGN2, OTX1, OTX2, FOXP2, HES5, FOXP2, FOXP2, HES5             
+chr1_crm_387	GATA3, GATA3, GATA3, OTX1, OTX2, FOXP2, NGN2              
+chr1_crm_388	FOXP2, OTX1, OTX2, OTX1, OTX2, HES5, OTX1, OTX2, HES5, NGN2           
+chr1_crm_389	GATA3, GATA3, NGN2, FOXP2, OTX1, OTX2               
+chr1_crm_390	OTX1, OTX2, HES5, FOXP2, GATA3, NGN2               
+chr1_crm_391	OTX1, OTX2, HES5, GATA3, NGN2                
+chr1_crm_392	OTX1, OTX2, NGN2, FOXP2, FOXP2, HES5               
+chr1_crm_393	HES5, GATA3, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_394	HES5, NGN2, FOXP2, OTX1, OTX2, HES5, HES5              
+chr1_crm_395	GATA3, FOXP2, NGN2, OTX1, OTX2, OTX2               
+chr1_crm_396	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_397	HES5, NGN2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_398	GATA3, HES5, NGN2, NGN2, FOXP2, OTX1, OTX2              
+chr1_crm_399	OTX1, OTX2, NGN2, GATA3, NGN2, GATA3, HES5              
+chr1_crm_400	OTX1, OTX2, GATA3, HES5, FOXP2, GATA3, HES5              
+chr1_crm_401	GATA3, FOXP2, NGN2, NGN2, OTX2, OTX2, HES5, HES5, HES5, FOXP2           
+chr1_crm_402	HES5, NGN2, OTX1, OTX2, HES5, FOXP2, HES5              
+chr1_crm_403	GATA3, HES5, HES5, NGN2, OTX1, OTX2               
+chr1_crm_404	OTX1, OTX2, GATA3, NGN2, NGN2, OTX1, OTX2, GATA3, HES5            
+chr1_crm_405	FOXP2, OTX1, OTX2, HES5, FOXP2, HES5, NGN2, NGN2             
+chr1_crm_406	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_407	FOXP2, HES5, HES5, OTX1, OTX2, GATA3               
+chr1_crm_408	GATA3, OTX1, OTX2, FOXP2, GATA3, HES5               
+chr1_crm_409	NGN2, HES5, NGN2, FOXP2, OTX1, OTX2               
+chr1_crm_410	HES5, GATA3, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_411	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_412	HES5, NGN2, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_413	FOXP2, FOXP2, FOXP2, NGN2, OTX1, OTX2, FOXP2, GATA3             
+chr1_crm_414	HES5, HES5, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_415	HES5, HES5, OTX1, OTX2, NGN2, GATA3               
+chr1_crm_416	OTX1, OTX2, GATA3, NGN2, HES5                
+chr1_crm_417	FOXP2, FOXP2, OTX1, OTX2, FOXP2, HES5, HES5, NGN2, NGN2, GATA3, FOXP2          
+chr1_crm_418	NGN2, FOXP2, OTX1, OTX2, GATA3, NGN2               
+chr1_crm_419	OTX1, OTX2, HES5, OTX1, OTX2, GATA3, HES5, GATA3, NGN2            
+chr1_crm_420	NGN2, FOXP2, GATA3, OTX1, OTX2, NGN2               
+chr1_crm_421	OTX1, OTX2, HES5, NGN2, HES5, FOXP2               
+chr1_crm_422	NGN2, GATA3, HES5, FOXP2, OTX1, OTX2, HES5              
+chr1_crm_423	FOXP2, GATA3, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_424	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_425	FOXP2, GATA3, HES5, FOXP2, GATA3, GATA3, OTX1, OTX2             
+chr1_crm_426	HES5, HES5, GATA3, OTX1, OTX2, FOXP2, FOXP2, OTX1, OTX2, GATA3           
+chr1_crm_427	NGN2, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_428	OTX1, OTX2, NGN2, HES5, HES5, GATA3, GATA3, GATA3             
+chr1_crm_429	HES5, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_430	FOXP2, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_431	HES5, FOXP2, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_432	NGN2, GATA3, HES5, OTX1, OTX2, GATA3, HES5              
+chr1_crm_433	OTX1, OTX2, GATA3, NGN2, GATA3, FOXP2, GATA3, GATA3, FOXP2            
+chr1_crm_434	FOXP2, FOXP2, GATA3, GATA3, NGN2, HES5, OTX1, OTX2             
+chr1_crm_435	OTX1, OTX2, HES5, FOXP2, NGN2                
+chr1_crm_436	HES5, NGN2, FOXP2, OTX1, OTX2, GATA3, FOXP2              
+chr1_crm_437	OTX2, OTX2, FOXP2, FOXP2, HES5, OTX1, OTX2, GATA3, HES5            
+chr1_crm_438	OTX1, OTX2, NGN2, FOXP2, HES5, HES5, FOXP2, FOXP2, GATA3, FOXP2, HES5, HES5, FOXP2        
+chr1_crm_439	OTX1, OTX2, HES5, GATA3, FOXP2, NGN2, FOXP2              
+chr1_crm_440	HES5, FOXP2, NGN2, NGN2, OTX1, OTX2               
+chr1_crm_441	GATA3, FOXP2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_442	NGN2, FOXP2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_443	OTX1, OTX2, FOXP2, GATA3, HES5                
+chr1_crm_444	FOXP2, OTX1, OTX2, GATA3, NGN2                
+chr1_crm_445	OTX1, OTX2, FOXP2, GATA3, GATA3, NGN2               
+chr1_crm_446	HES5, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_447	FOXP2, FOXP2, GATA3, OTX1, OTX2, FOXP2, HES5, NGN2             
+chr1_crm_448	OTX1, OTX2, NGN2, GATA3, HES5                
+chr1_crm_449	GATA3, GATA3, GATA3, HES5, OTX1, OTX2, FOXP2, GATA3, GATA3, OTX1, OTX2          
+chr1_crm_450	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_451	HES5, FOXP2, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_452	FOXP2, OTX1, OTX2, FOXP2, GATA3, FOXP2, OTX1, OTX2, FOXP2, FOXP2, NGN2, FOXP2         
+chr1_crm_453	FOXP2, OTX1, OTX2, OTX1, OTX2, NGN2, HES5, OTX1, OTX2            
+chr1_crm_454	HES5, NGN2, FOXP2, OTX1, OTX2, FOXP2, HES5              
+chr1_crm_455	NGN2, HES5, OTX1, OTX2, HES5, GATA3               
+chr1_crm_456	NGN2, FOXP2, OTX1, OTX2, HES5, FOXP2, GATA3              
+chr1_crm_457	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_458	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_459	GATA3, HES5, NGN2, OTX1, OTX2, HES5, NGN2              
+chr1_crm_460	OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, NGN2              
+chr1_crm_461	HES5, OTX1, OTX2, FOXP2, FOXP2, FOXP2, NGN2              
+chr1_crm_462	OTX1, OTX2, GATA3, HES5, FOXP2, OTX1, OTX2              
+chr1_crm_463	HES5, OTX1, OTX2, HES5, HES5, GATA3, FOXP2              
+chr1_crm_464	FOXP2, OTX1, OTX2, FOXP2, GATA3, FOXP2, HES5              
+chr1_crm_465	FOXP2, HES5, OTX1, OTX2, HES5, NGN2               
+chr1_crm_466	OTX1, OTX2, HES5, FOXP2, NGN2                
+chr1_crm_467	OTX1, OTX2, GATA3, NGN2, HES5                
+chr1_crm_468	OTX1, OTX2, OTX1, OTX2, HES5, NGN2, FOXP2              
+chr1_crm_469	HES5, NGN2, FOXP2, OTX1, OTX2, OTX1, OTX1, OTX2, GATA3, FOXP2           
+chr1_crm_470	HES5, NGN2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_471	OTX1, OTX1, OTX2, HES5, HES5, HES5, GATA3, FOXP2, FOXP2            
+chr1_crm_472	HES5, GATA3, OTX1, OTX2, HES5, FOXP2, HES5              
+chr1_crm_473	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_474	NGN2, OTX1, OTX2, FOXP2, FOXP2, GATA3               
+chr1_crm_475	NGN2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_476	HES5, FOXP2, OTX1, OTX2, FOXP2, HES5, GATA3              
+chr1_crm_477	NGN2, HES5, OTX1, OTX2, HES5, GATA3               
+chr1_crm_478	GATA3, GATA3, OTX1, OTX2, HES5, NGN2, NGN2, HES5             
+chr1_crm_479	OTX1, OTX2, NGN2, GATA3, HES5                
+chr1_crm_480	GATA3, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2, HES5, HES5, OTX1, OTX1, OTX2, GATA3, OTX2, OTX2      
+chr1_crm_481	OTX1, OTX2, HES5, HES5, FOXP2, GATA3               
+chr1_crm_482	NGN2, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_483	NGN2, GATA3, HES5, NGN2, HES5, OTX1, OTX2              
+chr1_crm_484	HES5, FOXP2, OTX2, OTX2, HES5, NGN2, FOXP2, FOXP2, GATA3            
+chr1_crm_485	NGN2, GATA3, FOXP2, OTX2, OTX2, HES5               
+chr1_crm_486	GATA3, NGN2, OTX1, OTX2, GATA3, HES5               
+chr1_crm_487	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_488	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_489	GATA3, OTX1, OTX2, OTX1, OTX2, HES5, FOXP2, HES5, FOXP2            
+chr1_crm_490	NGN2, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_491	FOXP2, HES5, HES5, GATA3, OTX1, OTX2, FOXP2              
+chr1_crm_492	NGN2, OTX1, OTX2, GATA3, NGN2, HES5, HES5, OTX1, OTX2            
+chr1_crm_493	FOXP2, OTX1, OTX2, NGN2, NGN2, HES5               
+chr1_crm_494	HES5, NGN2, OTX1, OTX2, OTX1, OTX2, GATA3              
+chr1_crm_495	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_496	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_497	HES5, GATA3, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_498	OTX1, OTX2, HES5, NGN2, GATA3                
+chr1_crm_499	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_500	GATA3, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_501	GATA3, FOXP2, OTX1, OTX2, GATA3, HES5, OTX1, OTX2, HES5            
+chr1_crm_502	OTX1, OTX2, GATA3, HES5, HES5, FOXP2               
+chr1_crm_503	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_504	HES5, HES5, FOXP2, GATA3, OTX1, OTX2, OTX1, OTX2, HES5, FOXP2, OTX2, OTX2, HES5        
+chr1_crm_505	OTX1, OTX2, HES5, GATA3, HES5, GATA3, GATA3, FOXP2, OTX1, OTX2           
+chr1_crm_506	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_507	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_508	OTX1, OTX2, NGN2, HES5, GATA3                
+chr1_crm_509	HES5, GATA3, NGN2, GATA3, OTX1, OTX2               
+chr1_crm_510	OTX1, OTX2, GATA3, HES5, FOXP2, HES5               
+chr1_crm_511	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_512	GATA3, NGN2, FOXP2, FOXP2, OTX1, OTX2               
+chr1_crm_513	GATA3, OTX1, OTX2, FOXP2, HES5, HES5               
+chr1_crm_514	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_515	HES5, NGN2, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_516	FOXP2, OTX1, OTX2, FOXP2, HES5, FOXP2, GATA3, HES5, FOXP2, FOXP2           
+chr1_crm_517	OTX1, OTX2, NGN2, HES5, FOXP2, HES5               
+chr1_crm_518	FOXP2, HES5, GATA3, OTX1, OTX2, GATA3, HES5              
+chr1_crm_519	HES5, NGN2, HES5, GATA3, HES5, OTX1, OTX2              
+chr1_crm_520	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_521	NGN2, HES5, GATA3, HES5, OTX1, OTX2               
+chr1_crm_522	FOXP2, GATA3, HES5, OTX1, OTX2, GATA3, GATA3, GATA3             
+chr1_crm_523	NGN2, HES5, GATA3, HES5, OTX1, OTX2               
+chr1_crm_524	GATA3, FOXP2, NGN2, NGN2, OTX1, OTX2               
+chr1_crm_525	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_526	GATA3, FOXP2, FOXP2, OTX1, OTX2, NGN2, HES5, NGN2, NGN2, FOXP2, FOXP2, NGN2, HES5        
+chr1_crm_527	HES5, FOXP2, OTX1, OTX1, OTX2, NGN2               
+chr1_crm_528	NGN2, HES5, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_529	GATA3, OTX1, OTX2, GATA3, OTX1, OTX1, OTX2, HES5, NGN2            
+chr1_crm_530	FOXP2, NGN2, HES5, OTX1, OTX2                
+chr1_crm_531	FOXP2, NGN2, OTX2, OTX2, HES5, HES5, GATA3              
+chr1_crm_532	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_533	HES5, NGN2, HES5, GATA3, HES5, OTX1, OTX2              
+chr1_crm_534	FOXP2, GATA3, HES5, OTX1, OTX2, GATA3, GATA3, GATA3             
+chr1_crm_535	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_536	NGN2, HES5, OTX1, OTX2, FOXP2, OTX2, OTX2              
+chr1_crm_537	OTX1, OTX2, FOXP2, HES5, HES5, OTX1, OTX2, GATA3, HES5            
+chr1_crm_538	NGN2, HES5, OTX1, OTX2, FOXP2, OTX2, OTX2              
+chr1_crm_539	OTX1, OTX2, FOXP2, HES5, HES5, OTX1, OTX2, GATA3, HES5            
+chr1_crm_540	HES5, FOXP2, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_541	NGN2, FOXP2, HES5, NGN2, OTX1, OTX2               
+chr1_crm_542	GATA3, HES5, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_543	NGN2, HES5, OTX1, OTX2, FOXP2, OTX2, OTX2              
+chr1_crm_544	FOXP2, GATA3, GATA3, HES5, OTX1, OTX2               
+chr1_crm_545	GATA3, HES5, OTX1, OTX2, HES5, FOXP2, HES5              
+chr1_crm_546	HES5, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_547	OTX1, OTX2, OTX1, OTX2, OTX1, OTX2, HES5, HES5, NGN2, FOXP2           
+chr1_crm_548	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_549	HES5, HES5, HES5, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_550	GATA3, OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, HES5             
+chr1_crm_551	FOXP2, GATA3, GATA3, FOXP2, NGN2, OTX1, OTX2              
+chr1_crm_552	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_553	OTX1, OTX2, GATA3, HES5, FOXP2, HES5               
+chr1_crm_554	HES5, GATA3, GATA3, NGN2, HES5, FOXP2, FOXP2, GATA3, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2       
+chr1_crm_555	FOXP2, OTX1, OTX1, OTX2, NGN2, GATA3               
+chr1_crm_556	OTX1, OTX2, NGN2, HES5, GATA3, FOXP2               
+chr1_crm_557	HES5, HES5, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_558	NGN2, GATA3, HES5, OTX1, OTX2, HES5, GATA3, FOXP2, NGN2, HES5           
+chr1_crm_559	HES5, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_560	FOXP2, FOXP2, OTX1, OTX2, HES5, GATA3, GATA3, GATA3             
+chr1_crm_561	HES5, FOXP2, FOXP2, FOXP2, OTX1, OTX2, NGN2, HES5             
+chr1_crm_562	FOXP2, HES5, GATA3, OTX1, OTX2, OTX1, OTX2, NGN2, HES5            
+chr1_crm_563	NGN2, FOXP2, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_564	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_565	NGN2, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_566	OTX1, OTX2, FOXP2, GATA3, FOXP2, HES5               
+chr1_crm_567	HES5, FOXP2, OTX1, OTX2, HES5, NGN2               
+chr1_crm_568	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_569	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_570	NGN2, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_571	OTX1, OTX1, OTX2, HES5, NGN2, GATA3               
+chr1_crm_572	OTX1, OTX2, GATA3, NGN2, HES5, GATA3               
+chr1_crm_573	HES5, FOXP2, OTX1, OTX2, NGN2, OTX1, OTX2, HES5, HES5            
+chr1_crm_574	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_575	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_576	HES5, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_577	HES5, OTX1, OTX2, HES5, NGN2, GATA3               
+chr1_crm_578	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_579	FOXP2, GATA3, OTX1, OTX2, GATA3, HES5               
+chr1_crm_580	GATA3, NGN2, HES5, FOXP2, OTX1, OTX2, GATA3              
+chr1_crm_581	GATA3, HES5, NGN2, OTX1, OTX1, OTX2               
+chr1_crm_582	OTX1, OTX1, OTX2, FOXP2, NGN2, GATA3               
+chr1_crm_583	HES5, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_584	OTX1, OTX2, HES5, GATA3, NGN2                
+chr1_crm_585	OTX1, OTX2, NGN2, GATA3, HES5                
+chr1_crm_586	FOXP2, GATA3, FOXP2, OTX1, OTX2, NGN2, FOXP2              
+chr1_crm_587	FOXP2, GATA3, HES5, FOXP2, GATA3, OTX1, OTX2              
+chr1_crm_588	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_589	HES5, HES5, HES5, OTX1, OTX2, FOXP2, GATA3              
+chr1_crm_590	OTX1, OTX2, NGN2, OTX1, OTX1, OTX2, FOXP2, HES5             
+chr1_crm_591	FOXP2, HES5, NGN2, OTX1, OTX2, OTX1, OTX1, OTX2             
+chr1_crm_592	GATA3, OTX1, OTX2, HES5, FOXP2, GATA3               
+chr1_crm_593	OTX1, OTX2, NGN2, GATA3, FOXP2, FOXP2               
+chr1_crm_594	NGN2, OTX1, OTX2, HES5, FOXP2, OTX1, OTX2              
+chr1_crm_595	HES5, HES5, FOXP2, FOXP2, NGN2, OTX1, OTX2              
+chr1_crm_596	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_597	HES5, GATA3, HES5, FOXP2, NGN2, GATA3, OTX1, OTX2             
+chr1_crm_598	NGN2, NGN2, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_599	GATA3, GATA3, NGN2, OTX1, OTX2, OTX1, OTX2, HES5, GATA3, OTX1, OTX2          
+chr1_crm_600	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_601	GATA3, NGN2, OTX1, OTX1, OTX2, FOXP2               
+chr1_crm_602	FOXP2, GATA3, OTX1, OTX2, HES5, GATA3, FOXP2              
+chr1_crm_603	OTX1, OTX2, HES5, FOXP2, NGN2                
+chr1_crm_604	FOXP2, NGN2, HES5, OTX1, OTX2                
+chr1_crm_605	GATA3, GATA3, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_606	NGN2, GATA3, FOXP2, OTX1, OTX2, HES5, NGN2              
+chr1_crm_607	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_608	GATA3, HES5, NGN2, HES5, OTX1, OTX2               
+chr1_crm_609	OTX1, OTX2, FOXP2, NGN2, HES5                
+chr1_crm_610	OTX1, HES5, GATA3, NGN2, OTX1, OTX2               
+chr1_crm_611	HES5, GATA3, OTX1, OTX2, OTX2, OTX2, FOXP2, FOXP2, GATA3            
+chr1_crm_612	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_613	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_614	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_615	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_616	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_617	FOXP2, OTX1, OTX2, NGN2, NGN2, GATA3               
+chr1_crm_618	GATA3, HES5, FOXP2, OTX1, OTX2, FOXP2               
+chr1_crm_619	GATA3, FOXP2, HES5, FOXP2, FOXP2, OTX1, OTX2              
+chr1_crm_620	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_621	HES5, GATA3, HES5, OTX1, OTX2, FOXP2, NGN2, FOXP2             
+chr1_crm_622	FOXP2, NGN2, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_623	OTX1, OTX2, HES5, GATA3, GATA3, NGN2               
+chr1_crm_624	HES5, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_625	HES5, NGN2, HES5, OTX1, OTX2, GATA3, HES5, FOXP2             
+chr1_crm_626	FOXP2, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_627	HES5, OTX1, OTX2, HES5, HES5, FOXP2, HES5, GATA3, NGN2, GATA3, FOXP2, NGN2, NGN2, GATA3       
+chr1_crm_628	HES5, HES5, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_629	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_631	GATA3, NGN2, FOXP2, OTX1, OTX2, HES5               
+chr1_crm_632	GATA3, OTX1, OTX2, FOXP2, NGN2, NGN2, NGN2              
+chr1_crm_633	FOXP2, HES5, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_634	FOXP2, OTX1, OTX2, HES5, GATA3, FOXP2, NGN2              
+chr1_crm_635	HES5, FOXP2, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_636	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_637	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_638	OTX1, OTX2, GATA3, FOXP2, NGN2, HES5, HES5, HES5             
+chr1_crm_639	OTX1, OTX2, FOXP2, HES5, NGN2, OTX1, OTX2, HES5             
+chr1_crm_640	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_641	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_642	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_643	FOXP2, HES5, OTX1, OTX2, NGN2, FOXP2, FOXP2              
+chr1_crm_644	HES5, GATA3, FOXP2, OTX1, OTX1, OTX2               
+chr1_crm_645	HES5, OTX1, OTX2, GATA3, NGN2, HES5               
+chr1_crm_646	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_647	HES5, FOXP2, OTX1, OTX2, NGN2, NGN2, OTX1, OTX2             
+chr1_crm_648	HES5, GATA3, HES5, NGN2, GATA3, FOXP2, OTX1, OTX2, HES5            
+chr1_crm_649	OTX1, OTX2, GATA3, HES5, FOXP2, FOXP2               
+chr1_crm_650	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_651	HES5, FOXP2, FOXP2, GATA3, HES5, NGN2, OTX1, OTX2             
+chr1_crm_652	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_653	OTX1, OTX2, HES5, FOXP2, NGN2, GATA3               
+chr1_crm_654	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_655	OTX1, OTX2, HES5, NGN2, FOXP2, GATA3, GATA3, HES5, HES5            
+chr1_crm_656	FOXP2, NGN2, FOXP2, HES5, OTX1, OTX2, NGN2, HES5             
+chr1_crm_657	OTX1, OTX2, FOXP2, NGN2, GATA3, NGN2, FOXP2, FOXP2, HES5            
+chr1_crm_658	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_659	GATA3, GATA3, FOXP2, HES5, OTX1, OTX2, OTX1, OTX2, HES5            
+chr1_crm_660	FOXP2, HES5, OTX1, OTX2, NGN2, FOXP2, HES5              
+chr1_crm_661	NGN2, GATA3, OTX1, OTX2, GATA3, OTX1, OTX2, HES5             
+chr1_crm_662	NGN2, GATA3, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_663	HES5, FOXP2, OTX1, OTX2, GATA3, NGN2               
+chr1_crm_664	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_665	NGN2, OTX1, OTX2, FOXP2, HES5, FOXP2               
+chr1_crm_666	OTX1, OTX2, NGN2, GATA3, OTX1, OTX1, OTX2, HES5             
+chr1_crm_667	GATA3, GATA3, OTX1, OTX2, HES5, NGN2, NGN2              
+chr1_crm_668	NGN2, NGN2, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_669	OTX1, OTX1, OTX2, HES5, FOXP2, NGN2, HES5, GATA3             
+chr1_crm_670	OTX1, OTX2, FOXP2, NGN2, OTX1, OTX2, HES5              
+chr1_crm_671	OTX1, OTX2, GATA3, HES5, FOXP2, OTX1, OTX1, OTX2, OTX1, OTX2, OTX1, OTX2, FOXP2, OTX1, OTX2, HES5, HES5, GATA3, NGN2  
+chr1_crm_672	GATA3, NGN2, FOXP2, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2, GATA3           
+chr1_crm_673	NGN2, GATA3, GATA3, OTX1, OTX2, FOXP2, FOXP2              
+chr1_crm_674	OTX1, OTX2, HES5, GATA3, GATA3, FOXP2, NGN2              
+chr1_crm_675	OTX1, OTX2, GATA3, OTX2, OTX2, FOXP2, FOXP2, OTX1, OTX2, NGN2, FOXP2, FOXP2, GATA3, FOXP2, FOXP2      
+chr1_crm_676	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_677	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_678	GATA3, HES5, NGN2, OTX1, OTX2, HES5, OTX1, OTX2             
+chr1_crm_679	NGN2, FOXP2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_680	OTX1, OTX1, OTX2, HES5, FOXP2, GATA3               
+chr1_crm_681	GATA3, HES5, NGN2, NGN2, OTX1, OTX2               
+chr1_crm_682	GATA3, FOXP2, OTX1, OTX2, NGN2, HES5, FOXP2              
+chr1_crm_683	HES5, FOXP2, NGN2, OTX1, OTX2, GATA3               
+chr1_crm_684	GATA3, FOXP2, FOXP2, OTX1, OTX2, FOXP2, HES5              
+chr1_crm_685	NGN2, HES5, HES5, GATA3, OTX1, OTX2, FOXP2              
+chr1_crm_686	OTX1, OTX2, HES5, NGN2, FOXP2                
+chr1_crm_687	OTX1, OTX1, OTX2, FOXP2, GATA3, GATA3, FOXP2, GATA3, HES5            
+chr1_crm_688	FOXP2, HES5, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_689	GATA3, GATA3, HES5, OTX1, OTX1, OTX2, FOXP2, FOXP2, HES5            
+chr1_crm_690	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_691	HES5, GATA3, FOXP2, OTX1, OTX2, GATA3, GATA3              
+chr1_crm_692	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_693	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_694	OTX1, OTX2, FOXP2, OTX1, OTX2, HES5, FOXP2, FOXP2, NGN2            
+chr1_crm_695	OTX1, OTX2, GATA3, NGN2, GATA3, FOXP2, NGN2              
+chr1_crm_696	OTX1, OTX2, GATA3, FOXP2, NGN2, NGN2               
+chr1_crm_697	HES5, FOXP2, OTX1, OTX2, HES5, OTX1, OTX2, GATA3, GATA3, OTX1, OTX2, FOXP2         
+chr1_crm_698	NGN2, GATA3, FOXP2, GATA3, OTX1, OTX2, NGN2, OTX1, OTX2, GATA3, FOXP2          
+chr1_crm_699	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_700	NGN2, OTX1, OTX2, GATA3, OTX1, OTX2, FOXP2, NGN2, NGN2, FOXP2           
+chr1_crm_701	OTX1, OTX2, FOXP2, HES5, GATA3, HES5, GATA3, NGN2, GATA3            
+chr1_crm_702	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_703	FOXP2, OTX1, OTX2, NGN2, HES5, GATA3, GATA3              
+chr1_crm_704	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_705	NGN2, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_706	GATA3, FOXP2, GATA3, OTX2, OTX2, OTX1, OTX2, NGN2             
+chr1_crm_707	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2               
+chr1_crm_708	OTX1, OTX2, GATA3, NGN2, FOXP2                
+chr1_crm_709	FOXP2, OTX1, OTX2, GATA3, HES5, FOXP2               
+chr1_crm_710	OTX1, OTX2, NGN2, GATA3, FOXP2, GATA3               
+chr1_crm_711	HES5, NGN2, OTX1, OTX2, HES5, FOXP2, FOXP2              
+chr1_crm_712	NGN2, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_713	HES5, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_714	OTX1, OTX2, HES5, NGN2, GATA3, NGN2, GATA3              
+chr1_crm_715	OTX1, OTX2, NGN2, HES5, HES5, GATA3, HES5, NGN2             
+chr1_crm_716	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_717	GATA3, NGN2, OTX1, OTX2, NGN2, NGN2, HES5, HES5             
+chr1_crm_718	OTX1, OTX1, OTX2, NGN2, GATA3, FOXP2               
+chr1_crm_719	FOXP2, FOXP2, GATA3, OTX1, OTX1, OTX2, HES5, FOXP2             
+chr1_crm_720	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_721	GATA3, FOXP2, HES5, OTX1, OTX2, NGN2, FOXP2, NGN2             
+chr1_crm_722	FOXP2, FOXP2, GATA3, HES5, OTX2, OTX2, NGN2              
+chr1_crm_723	NGN2, FOXP2, FOXP2, HES5, OTX1, OTX2, HES5              
+chr1_crm_724	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_725	GATA3, FOXP2, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_726	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2               
+chr1_crm_727	NGN2, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_728	GATA3, HES5, HES5, NGN2, OTX1, OTX2               
+chr1_crm_729	GATA3, NGN2, GATA3, FOXP2, FOXP2, OTX1, OTX2              
+chr1_crm_730	HES5, OTX1, OTX2, GATA3, NGN2, GATA3, FOXP2, FOXP2, FOXP2, HES5, GATA3          
+chr1_crm_731	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_732	HES5, FOXP2, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_733	NGN2, NGN2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_734	OTX1, OTX1, OTX2, HES5, FOXP2, GATA3, FOXP2, HES5             
+chr1_crm_735	FOXP2, HES5, NGN2, GATA3, FOXP2, HES5, OTX1, OTX2             
+chr1_crm_736	OTX1, OTX2, GATA3, HES5, HES5, GATA3, FOXP2              
+chr1_crm_737	FOXP2, OTX1, OTX2, NGN2, HES5                
+chr1_crm_738	FOXP2, NGN2, GATA3, NGN2, OTX1, OTX2               
+chr1_crm_739	OTX1, OTX2, HES5, OTX1, OTX2, GATA3, GATA3, FOXP2, HES5, FOXP2, GATA3          
+chr1_crm_740	HES5, OTX1, OTX2, FOXP2, GATA3, FOXP2               
+chr1_crm_741	OTX1, OTX2, NGN2, GATA3, FOXP2, OTX1, OTX2, GATA3             
+chr1_crm_742	HES5, FOXP2, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_743	GATA3, GATA3, FOXP2, OTX1, OTX2, NGN2               
+chr1_crm_744	GATA3, GATA3, FOXP2, GATA3, HES5, OTX1, OTX1, OTX2             
+chr1_crm_745	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_746	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_747	GATA3, HES5, NGN2, OTX1, OTX1, OTX2               
+chr1_crm_748	FOXP2, FOXP2, FOXP2, GATA3, HES5, GATA3, GATA3, OTX1, OTX2            
+chr1_crm_749	OTX2, OTX2, NGN2, HES5, FOXP2, GATA3               
+chr1_crm_750	OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, GATA3, HES5             
+chr1_crm_751	FOXP2, OTX1, OTX2, NGN2, FOXP2, HES5               
+chr1_crm_752	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_753	GATA3, HES5, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_754	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_755	GATA3, NGN2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_756	HES5, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_757	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2               
+chr1_crm_758	OTX1, OTX2, HES5, GATA3, NGN2, GATA3               
+chr1_crm_759	OTX1, OTX2, FOXP2, NGN2, HES5, FOXP2               
+chr1_crm_760	HES5, OTX1, OTX2, FOXP2, GATA3, NGN2, GATA3              
+chr1_crm_761	GATA3, GATA3, FOXP2, NGN2, FOXP2, NGN2, OTX1, OTX2             
+chr1_crm_762	GATA3, HES5, NGN2, OTX1, OTX2                
+chr1_crm_763	HES5, FOXP2, OTX1, OTX2, NGN2                
+chr1_crm_764	OTX1, OTX2, GATA3, OTX1, OTX2, HES5, FOXP2              
+chr1_crm_765	OTX1, OTX2, GATA3, GATA3, FOXP2, HES5, FOXP2, GATA3, GATA3            
+chr1_crm_766	OTX1, OTX1, OTX2, HES5, FOXP2, GATA3, GATA3, HES5, FOXP2            
+chr1_crm_767	OTX1, OTX2, HES5, GATA3, FOXP2, FOXP2               
+chr1_crm_768	FOXP2, HES5, HES5, NGN2, HES5, HES5, OTX1, OTX2             
+chr1_crm_769	FOXP2, HES5, HES5, NGN2, HES5, OTX1, OTX2, FOXP2, HES5, GATA3, HES5          
+chr1_crm_770	NGN2, NGN2, HES5, GATA3, OTX1, OTX2, NGN2, GATA3             
+chr1_crm_771	HES5, OTX1, OTX1, OTX2, NGN2, GATA3, GATA3              
+chr1_crm_772	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_773	OTX1, OTX2, OTX2, OTX2, GATA3, FOXP2, FOXP2, HES5             
+chr1_crm_774	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_775	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_776	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_777	OTX1, OTX2, HES5, NGN2, FOXP2                
+chr1_crm_778	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_779	NGN2, GATA3, OTX1, OTX1, OTX2, HES5               
+chr1_crm_780	HES5, NGN2, OTX1, OTX2, FOXP2                
+chr1_crm_781	OTX1, OTX2, FOXP2, NGN2, NGN2, HES5               
+chr1_crm_782	HES5, GATA3, FOXP2, OTX1, OTX2, HES5, GATA3              
+chr1_crm_783	HES5, FOXP2, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_784	FOXP2, OTX1, OTX2, NGN2, HES5, HES5               
+chr1_crm_785	FOXP2, OTX1, OTX1, OTX2, GATA3, HES5               
+chr1_crm_786	NGN2, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_787	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_788	NGN2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_789	NGN2, OTX1, OTX2, HES5, HES5, FOXP2               
+chr1_crm_790	NGN2, GATA3, OTX1, OTX2, GATA3, HES5, NGN2, NGN2             
+chr1_crm_791	GATA3, OTX1, OTX2, OTX1, OTX2, FOXP2, HES5              
+chr1_crm_792	NGN2, HES5, HES5, HES5, OTX1, OTX2, GATA3              
+chr1_crm_793	FOXP2, NGN2, HES5, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_794	NGN2, NGN2, NGN2, NGN2, GATA3, GATA3, OTX1, OTX2, FOXP2            
+chr1_crm_795	HES5, FOXP2, HES5, NGN2, OTX1, OTX2               
+chr1_crm_796	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_797	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_798	FOXP2, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_799	NGN2, FOXP2, NGN2, GATA3, OTX1, OTX2               
+chr1_crm_800	HES5, NGN2, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_801	FOXP2, NGN2, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_802	NGN2, GATA3, NGN2, GATA3, OTX1, OTX2, FOXP2, GATA3             
+chr1_crm_803	OTX1, OTX2, FOXP2, NGN2, FOXP2, NGN2, FOXP2, FOXP2, NGN2, HES5, HES5          
+chr1_crm_804	GATA3, FOXP2, OTX1, OTX2, HES5, HES5, NGN2              
+chr1_crm_805	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_806	NGN2, GATA3, OTX1, OTX2, HES5, HES5, NGN2              
+chr1_crm_807	GATA3, NGN2, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_808	OTX1, OTX2, NGN2, HES5, FOXP2, GATA3               
+chr1_crm_809	OTX1, OTX2, GATA3, GATA3, NGN2, FOXP2               
+chr1_crm_810	HES5, FOXP2, OTX1, OTX2, HES5, HES5, HES5, HES5, NGN2            
+chr1_crm_811	HES5, GATA3, HES5, NGN2, OTX1, OTX2, NGN2, NGN2, HES5            
+chr1_crm_812	FOXP2, NGN2, OTX1, OTX2, HES5, HES5               
+chr1_crm_813	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_814	OTX1, OTX1, OTX2, HES5, GATA3, HES5, OTX1, OTX2, HES5, NGN2, HES5          
+chr1_crm_815	HES5, NGN2, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_816	HES5, FOXP2, NGN2, OTX1, OTX2, GATA3               
+chr1_crm_817	NGN2, HES5, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_818	OTX1, OTX2, GATA3, FOXP2, FOXP2, HES5               
+chr1_crm_819	OTX1, OTX2, NGN2, GATA3, FOXP2                
+chr1_crm_820	GATA3, GATA3, OTX1, OTX2, FOXP2, FOXP2, NGN2              
+chr1_crm_821	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_822	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_823	FOXP2, GATA3, FOXP2, HES5, NGN2, OTX1, OTX2, GATA3, NGN2, OTX1, OTX2, HES5         
+chr1_crm_824	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_825	FOXP2, HES5, OTX1, OTX2, GATA3, HES5               
+chr1_crm_826	OTX1, OTX2, NGN2, GATA3, GATA3, HES5               
+chr1_crm_827	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_828	GATA3, OTX1, OTX2, HES5, HES5, FOXP2, GATA3              
+chr1_crm_829	HES5, FOXP2, HES5, GATA3, HES5, GATA3, GATA3, OTX1, OTX2, HES5           
+chr1_crm_830	HES5, FOXP2, HES5, HES5, NGN2, OTX1, OTX2, HES5             
+chr1_crm_831	GATA3, HES5, OTX1, OTX2, GATA3, NGN2               
+chr1_crm_832	HES5, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_833	OTX1, OTX2, NGN2, FOXP2, HES5                
+chr1_crm_834	GATA3, FOXP2, OTX1, OTX2, NGN2, NGN2               
+chr1_crm_835	HES5, OTX1, OTX1, OTX2, NGN2, FOXP2, HES5              
+chr1_crm_836	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_837	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_838	NGN2, OTX1, OTX2, GATA3, NGN2, HES5               
+chr1_crm_839	GATA3, HES5, HES5, HES5, FOXP2, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2, HES5         
+chr1_crm_840	HES5, OTX1, OTX2, GATA3, NGN2, NGN2, FOXP2              
+chr1_crm_841	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_842	GATA3, FOXP2, OTX1, OTX2, NGN2, FOXP2               
+chr1_crm_843	GATA3, FOXP2, OTX1, OTX2, NGN2, HES5, GATA3              
+chr1_crm_844	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_845	OTX1, OTX2, HES5, FOXP2, FOXP2, OTX1, OTX2, GATA3             
+chr1_crm_846	FOXP2, NGN2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_847	FOXP2, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_848	OTX1, OTX2, GATA3, FOXP2, HES5, GATA3               
+chr1_crm_849	HES5, FOXP2, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_850	HES5, HES5, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_851	HES5, GATA3, OTX1, OTX2, HES5, FOXP2, FOXP2, HES5             
+chr1_crm_852	HES5, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_853	FOXP2, HES5, OTX1, OTX2, NGN2                
+chr1_crm_854	OTX1, OTX2, FOXP2, HES5, NGN2, OTX2, OTX2, HES5, NGN2            
+chr1_crm_855	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_856	HES5, OTX1, OTX2, FOXP2, GATA3, HES5               
+chr1_crm_857	OTX1, OTX2, NGN2, OTX1, OTX2, HES5, OTX1, OTX2, HES5, HES5, GATA3, NGN2, OTX1, OTX2       
+chr1_crm_858	NGN2, NGN2, GATA3, NGN2, NGN2, NGN2, HES5, HES5, GATA3, OTX1, OTX2          
+chr1_crm_859	GATA3, OTX1, OTX2, FOXP2, FOXP2, HES5               
+chr1_crm_860	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_861	NGN2, FOXP2, GATA3, NGN2, OTX1, OTX1, OTX2, HES5, GATA3            
+chr1_crm_862	GATA3, HES5, GATA3, FOXP2, OTX1, OTX2               
+chr1_crm_863	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_864	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_865	HES5, HES5, FOXP2, OTX1, OTX2, NGN2, HES5              
+chr1_crm_866	OTX1, OTX2, HES5, NGN2, GATA3                
+chr1_crm_867	FOXP2, HES5, NGN2, HES5, OTX1, OTX2               
+chr1_crm_868	FOXP2, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_869	OTX1, OTX2, HES5, HES5, FOXP2, OTX1, OTX2, GATA3             
+chr1_crm_870	OTX1, OTX2, GATA3, HES5, FOXP2, FOXP2, FOXP2, FOXP2, FOXP2, FOXP2           
+chr1_crm_871	GATA3, HES5, FOXP2, HES5, OTX1, OTX1, OTX2              
+chr1_crm_872	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_873	OTX1, OTX2, HES5, GATA3, NGN2                
+chr1_crm_874	FOXP2, NGN2, FOXP2, FOXP2, OTX1, OTX2, HES5, HES5, FOXP2, NGN2           
+chr1_crm_875	NGN2, HES5, OTX1, OTX2, GATA3, GATA3               
+chr1_crm_876	NGN2, GATA3, OTX1, OTX2, HES5, HES5               
+chr1_crm_877	OTX1, OTX2, GATA3, HES5, FOXP2, HES5               
+chr1_crm_878	HES5, OTX1, OTX2, FOXP2, OTX1, OTX2, NGN2              
+chr1_crm_879	GATA3, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_880	HES5, FOXP2, OTX1, OTX2, NGN2                
+chr1_crm_881	HES5, OTX1, OTX2, FOXP2, GATA3, OTX1, OTX2, NGN2, FOXP2            
+chr1_crm_882	NGN2, HES5, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_883	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_884	OTX1, OTX2, NGN2, HES5, FOXP2                
+chr1_crm_885	OTX1, OTX2, FOXP2, GATA3, GATA3, GATA3, HES5              
+chr1_crm_886	FOXP2, OTX1, OTX2, NGN2, HES5, HES5, HES5              
+chr1_crm_887	FOXP2, GATA3, OTX1, OTX2, OTX1, OTX2, NGN2              
+chr1_crm_888	GATA3, HES5, NGN2, OTX1, OTX2                
+chr1_crm_889	OTX1, OTX2, NGN2, FOXP2, GATA3, NGN2, HES5, NGN2, NGN2            
+chr1_crm_890	OTX1, OTX2, NGN2, HES5, FOXP2, HES5               
+chr1_crm_891	NGN2, FOXP2, NGN2, HES5, NGN2, HES5, OTX1, OTX2             
+chr1_crm_892	OTX1, OTX2, HES5, OTX1, OTX2, NGN2, HES5, NGN2, NGN2, GATA3, HES5, HES5         
+chr1_crm_893	GATA3, GATA3, NGN2, OTX1, OTX2, HES5               
+chr1_crm_894	OTX1, OTX2, GATA3, HES5, FOXP2                
+chr1_crm_895	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_896	FOXP2, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_897	OTX1, OTX2, NGN2, HES5, FOXP2, NGN2               
+chr1_crm_898	NGN2, FOXP2, HES5, OTX1, OTX2, HES5, HES5, NGN2             
+chr1_crm_899	NGN2, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_900	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_901	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_902	OTX1, OTX2, FOXP2, HES5, GATA3, GATA3, HES5              
+chr1_crm_903	HES5, FOXP2, FOXP2, NGN2, OTX1, OTX2, GATA3, GATA3             
+chr1_crm_904	OTX1, OTX2, GATA3, GATA3, HES5, GATA3, NGN2, NGN2             
+chr1_crm_905	HES5, OTX1, OTX2, FOXP2, FOXP2, GATA3, OTX1, OTX2, HES5            
+chr1_crm_906	FOXP2, GATA3, NGN2, OTX1, OTX2, GATA3, FOXP2              
+chr1_crm_907	FOXP2, HES5, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_908	OTX1, OTX2, HES5, FOXP2, HES5, HES5, NGN2              
+chr1_crm_909	HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2, GATA3, FOXP2             
+chr1_crm_910	NGN2, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_911	FOXP2, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_912	OTX1, OTX2, FOXP2, GATA3, HES5, FOXP2               
+chr1_crm_913	GATA3, OTX1, OTX2, HES5, NGN2, FOXP2               
+chr1_crm_914	GATA3, OTX1, OTX2, HES5, FOXP2, FOXP2, OTX1, OTX2, FOXP2            
+chr1_crm_915	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_916	HES5, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_917	OTX1, OTX2, FOXP2, HES5, GATA3, HES5               
+chr1_crm_918	HES5, GATA3, HES5, NGN2, OTX1, OTX2               
+chr1_crm_919	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_920	OTX1, OTX2, FOXP2, NGN2, HES5, FOXP2               
+chr1_crm_921	OTX1, OTX2, HES5, HES5, FOXP2, FOXP2, GATA3              
+chr1_crm_922	NGN2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_923	GATA3, GATA3, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_924	OTX1, OTX1, OTX2, GATA3, FOXP2, NGN2               
+chr1_crm_925	GATA3, GATA3, HES5, HES5, OTX1, OTX2, NGN2              
+chr1_crm_926	GATA3, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_927	GATA3, GATA3, OTX1, OTX2, NGN2, FOXP2, FOXP2, FOXP2             
+chr1_crm_928	FOXP2, HES5, NGN2, NGN2, OTX1, OTX2, HES5              
+chr1_crm_929	FOXP2, GATA3, GATA3, GATA3, NGN2, NGN2, OTX1, OTX2             
+chr1_crm_930	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_931	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_932	NGN2, GATA3, OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, GATA3            
+chr1_crm_933	OTX1, OTX2, NGN2, OTX1, OTX2, HES5, HES5, FOXP2             
+chr1_crm_934	HES5, HES5, FOXP2, OTX1, OTX2, GATA3, GATA3              
+chr1_crm_935	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_936	FOXP2, OTX1, OTX2, FOXP2, GATA3, HES5               
+chr1_crm_937	NGN2, FOXP2, HES5, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_938	HES5, HES5, HES5, GATA3, FOXP2, FOXP2, OTX1, OTX2             
+chr1_crm_939	FOXP2, HES5, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_940	HES5, GATA3, FOXP2, OTX1, OTX2, GATA3               
+chr1_crm_941	HES5, NGN2, GATA3, OTX1, OTX2, NGN2               
+chr1_crm_942	OTX1, OTX2, GATA3, FOXP2, FOXP2, FOXP2, GATA3, HES5             
+chr1_crm_943	HES5, OTX2, OTX2, OTX1, OTX2, FOXP2, NGN2, HES5, HES5            
+chr1_crm_944	FOXP2, OTX1, OTX2, GATA3, FOXP2, FOXP2, GATA3, HES5, GATA3            
+chr1_crm_945	OTX1, OTX2, OTX1, OTX2, HES5, FOXP2, GATA3              
+chr1_crm_946	GATA3, NGN2, OTX1, OTX2, FOXP2, FOXP2               
+chr1_crm_947	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_948	HES5, HES5, NGN2, FOXP2, HES5, OTX1, OTX2, HES5, GATA3            
+chr1_crm_949	GATA3, OTX1, OTX2, FOXP2, FOXP2, HES5, FOXP2              
+chr1_crm_950	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_951	OTX1, OTX2, NGN2, FOXP2, HES5, OTX1, OTX2              
+chr1_crm_952	OTX1, OTX2, FOXP2, NGN2, HES5, GATA3, HES5              
+chr1_crm_953	FOXP2, OTX1, OTX2, HES5, NGN2, FOXP2, GATA3              
+chr1_crm_954	OTX1, OTX2, FOXP2, HES5, GATA3, NGN2               
+chr1_crm_955	HES5, NGN2, OTX1, OTX2, OTX1, OTX2, FOXP2, FOXP2             
+chr1_crm_956	NGN2, NGN2, FOXP2, HES5, FOXP2, OTX1, OTX2              
+chr1_crm_957	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_958	HES5, FOXP2, FOXP2, OTX1, OTX2, HES5, OTX1, OTX1, OTX2, FOXP2, GATA3          
+chr1_crm_959	OTX1, OTX2, NGN2, FOXP2, GATA3, FOXP2               
+chr1_crm_960	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_961	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2, NGN2, GATA3             
+chr1_crm_962	OTX1, OTX2, FOXP2, HES5, HES5, GATA3               
+chr1_crm_963	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_964	FOXP2, GATA3, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_965	GATA3, FOXP2, FOXP2, HES5, OTX1, OTX2, HES5, FOXP2, GATA3, HES5           
+chr1_crm_966	HES5, HES5, OTX1, OTX2, HES5, NGN2, FOXP2              
+chr1_crm_967	OTX1, OTX2, HES5, FOXP2, NGN2                
+chr1_crm_968	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_969	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_970	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_971	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_972	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_973	NGN2, GATA3, GATA3, OTX1, OTX2, HES5               
+chr1_crm_974	HES5, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_975	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_976	GATA3, HES5, HES5, OTX1, OTX2, NGN2               
+chr1_crm_977	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_978	FOXP2, OTX1, OTX2, NGN2, HES5                
+chr1_crm_979	HES5, NGN2, FOXP2, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_980	OTX1, OTX2, GATA3, HES5, HES5, HES5, NGN2              
+chr1_crm_981	OTX1, OTX2, NGN2, HES5, HES5, FOXP2, NGN2              
+chr1_crm_982	HES5, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_983	OTX1, OTX2, FOXP2, NGN2, GATA3                
+chr1_crm_984	NGN2, OTX1, OTX2, HES5, HES5, FOXP2, GATA3              
+chr1_crm_985	OTX1, OTX2, GATA3, FOXP2, FOXP2, HES5               
+chr1_crm_986	FOXP2, OTX2, OTX2, NGN2, OTX1, OTX2, OTX1, OTX2, OTX1, OTX2, OTX1, OTX2, GATA3        
+chr1_crm_987	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_988	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_989	FOXP2, NGN2, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_990	GATA3, OTX1, OTX2, GATA3, FOXP2, HES5, HES5              
+chr1_crm_991	GATA3, OTX1, OTX2, NGN2, HES5, HES5               
+chr1_crm_992	FOXP2, OTX1, OTX2, HES5, GATA3, NGN2               
+chr1_crm_993	OTX1, OTX2, OTX1, OTX2, HES5, FOXP2, HES5, GATA3             
+chr1_crm_994	HES5, GATA3, HES5, FOXP2, OTX2, OTX2, HES5, NGN2, NGN2            
+chr1_crm_995	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_996	FOXP2, OTX1, OTX2, HES5, OTX1, OTX2, NGN2              
+chr1_crm_997	FOXP2, OTX1, OTX2, GATA3, OTX1, OTX1, OTX2, HES5             
+chr1_crm_998	OTX1, OTX2, HES5, NGN2, OTX1, OTX2, FOXP2              
+chr1_crm_999	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1000	FOXP2, OTX1, OTX2, HES5, GATA3, GATA3               
+chr1_crm_1001	FOXP2, NGN2, OTX1, OTX1, OTX2, OTX1, OTX2, HES5, HES5, OTX1, OTX2, HES5, GATA3        
+chr1_crm_1002	OTX1, OTX2, NGN2, OTX2, OTX2, GATA3, FOXP2, FOXP2             
+chr1_crm_1003	GATA3, FOXP2, HES5, OTX1, OTX2, HES5, HES5              
+chr1_crm_1004	HES5, HES5, OTX1, OTX2, FOXP2, NGN2               
+chr1_crm_1005	HES5, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_1006	OTX1, OTX2, GATA3, FOXP2, FOXP2, HES5, OTX1, OTX2             
+chr1_crm_1007	HES5, NGN2, OTX2, OTX2, GATA3, OTX1, OTX2              
+chr1_crm_1008	GATA3, FOXP2, GATA3, HES5, OTX1, OTX2, HES5              
+chr1_crm_1009	OTX1, OTX2, FOXP2, NGN2, GATA3                
+chr1_crm_1010	HES5, GATA3, OTX1, OTX2, NGN2, GATA3, GATA3, GATA3             
+chr1_crm_1011	GATA3, HES5, OTX1, OTX2, HES5, HES5, HES5, GATA3, GATA3, FOXP2           
+chr1_crm_1012	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_1013	GATA3, OTX1, OTX2, NGN2, HES5, OTX1, OTX2              
+chr1_crm_1014	OTX1, OTX2, FOXP2, NGN2, NGN2, HES5               
+chr1_crm_1015	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_1016	GATA3, NGN2, OTX1, OTX2, FOXP2                
+chr1_crm_1017	OTX1, OTX2, HES5, GATA3, NGN2                
+chr1_crm_1018	GATA3, HES5, FOXP2, OTX1, OTX1, OTX2               
+chr1_crm_1019	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1020	FOXP2, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_1021	GATA3, FOXP2, GATA3, NGN2, OTX1, OTX2               
+chr1_crm_1022	GATA3, FOXP2, OTX1, OTX2, HES5, NGN2, HES5              
+chr1_crm_1023	HES5, FOXP2, NGN2, FOXP2, OTX1, OTX2               
+chr1_crm_1024	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1025	HES5, FOXP2, GATA3, OTX1, OTX1, OTX2, NGN2, FOXP2             
+chr1_crm_1026	GATA3, OTX1, OTX2, FOXP2, FOXP2, HES5               
+chr1_crm_1027	GATA3, OTX2, OTX2, GATA3, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2           
+chr1_crm_1028	HES5, OTX2, OTX2, GATA3, GATA3, GATA3, NGN2, FOXP2             
+chr1_crm_1029	OTX1, OTX2, HES5, FOXP2, HES5, GATA3               
+chr1_crm_1030	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_1031	HES5, GATA3, GATA3, GATA3, NGN2, OTX1, OTX2              
+chr1_crm_1032	FOXP2, HES5, GATA3, OTX1, OTX2, HES5               
+chr1_crm_1033	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1034	OTX1, OTX2, FOXP2, HES5, NGN2                
+chr1_crm_1035	FOXP2, FOXP2, GATA3, NGN2, FOXP2, OTX2, OTX2, HES5, HES5            
+chr1_crm_1036	NGN2, FOXP2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_1037	FOXP2, OTX1, OTX2, GATA3, FOXP2, HES5, HES5              
+chr1_crm_1038	NGN2, OTX1, OTX2, HES5, FOXP2, GATA3, GATA3              
+chr1_crm_1039	NGN2, OTX1, OTX2, HES5, FOXP2, HES5               
+chr1_crm_1040	HES5, HES5, HES5, HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, GATA3        
+chr1_crm_1041	OTX1, OTX2, HES5, GATA3, FOXP2, FOXP2, HES5              
+chr1_crm_1042	OTX1, OTX2, NGN2, GATA3, FOXP2, GATA3               
+chr1_crm_1043	NGN2, GATA3, HES5, NGN2, FOXP2, OTX2, OTX2              
+chr1_crm_1044	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1045	FOXP2, GATA3, FOXP2, HES5, HES5, GATA3, OTX1, OTX2             
+chr1_crm_1046	FOXP2, HES5, NGN2, OTX1, OTX2, FOXP2               
+chr1_crm_1047	OTX1, OTX2, FOXP2, NGN2, HES5                
+chr1_crm_1048	NGN2, GATA3, HES5, OTX1, OTX2, GATA3, FOXP2, GATA3             
+chr1_crm_1049	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_1050	NGN2, OTX1, OTX2, HES5, GATA3, HES5               
+chr1_crm_1051	GATA3, NGN2, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1052	OTX1, OTX2, HES5, GATA3, OTX1, OTX2, FOXP2, FOXP2, OTX1, OTX2           
+chr1_crm_1053	OTX1, OTX2, GATA3, HES5, FOXP2                
+chr1_crm_1054	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1055	HES5, GATA3, GATA3, FOXP2, OTX1, OTX2, OTX2              
+chr1_crm_1056	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_1057	OTX1, OTX2, FOXP2, FOXP2, FOXP2, NGN2, GATA3              
+chr1_crm_1058	FOXP2, OTX1, OTX2, OTX2, GATA3, HES5               
+chr1_crm_1059	OTX1, OTX2, NGN2, FOXP2, HES5, GATA3, GATA3              
+chr1_crm_1060	OTX1, OTX2, HES5, FOXP2, GATA3, GATA3, GATA3              
+chr1_crm_1061	FOXP2, HES5, FOXP2, NGN2, OTX1, OTX2, HES5, FOXP2             
+chr1_crm_1062	GATA3, HES5, GATA3, GATA3, HES5, FOXP2, OTX1, OTX2, FOXP2            
+chr1_crm_1063	FOXP2, GATA3, OTX1, OTX2, HES5, HES5               
+chr1_crm_1064	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1065	HES5, FOXP2, OTX1, OTX2, GATA3, GATA3               
+chr1_crm_1066	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1067	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1068	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_1069	GATA3, HES5, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_1070	HES5, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1071	NGN2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1072	FOXP2, OTX1, OTX2, OTX1, OTX2, GATA3, GATA3, HES5, HES5            
+chr1_crm_1073	FOXP2, OTX1, OTX1, OTX2, GATA3, HES5               
+chr1_crm_1074	NGN2, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1075	OTX1, OTX2, NGN2, FOXP2, FOXP2, GATA3, GATA3, OTX1, OTX2, FOXP2, HES5, GATA3         
+chr1_crm_1076	HES5, FOXP2, OTX1, OTX2, HES5, HES5, GATA3, HES5, FOXP2            
+chr1_crm_1077	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_1078	GATA3, FOXP2, OTX1, OTX2, NGN2                
+chr1_crm_1079	FOXP2, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1080	HES5, OTX1, OTX2, OTX1, OTX2, NGN2, FOXP2              
+chr1_crm_1081	GATA3, FOXP2, OTX1, OTX2, HES5, OTX1, OTX1, OTX2             
+chr1_crm_1082	GATA3, HES5, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1083	OTX1, OTX2, GATA3, HES5, NGN2, FOXP2               
+chr1_crm_1084	OTX1, OTX2, FOXP2, GATA3, FOXP2, HES5, FOXP2              
+chr1_crm_1085	NGN2, HES5, GATA3, HES5, HES5, FOXP2, OTX1, OTX2             
+chr1_crm_1086	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_1087	FOXP2, GATA3, GATA3, HES5, OTX1, OTX2               
+chr1_crm_1088	OTX1, OTX2, HES5, NGN2, FOXP2                
+chr1_crm_1089	NGN2, GATA3, HES5, OTX1, OTX2, HES5               
+chr1_crm_1090	GATA3, HES5, FOXP2, GATA3, OTX1, OTX1, OTX2              
+chr1_crm_1091	FOXP2, HES5, NGN2, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_1092	HES5, HES5, HES5, FOXP2, GATA3, OTX1, OTX2              
+chr1_crm_1093	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1094	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_1095	FOXP2, NGN2, GATA3, GATA3, OTX1, OTX2               
+chr1_crm_1096	HES5, FOXP2, GATA3, GATA3, OTX1, OTX2               
+chr1_crm_1097	OTX1, OTX2, FOXP2, NGN2, HES5                
+chr1_crm_1098	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1099	GATA3, HES5, GATA3, FOXP2, OTX2, OTX2, GATA3, OTX1, OTX2            
+chr1_crm_1100	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1101	FOXP2, OTX1, OTX2, FOXP2, NGN2, GATA3               
+chr1_crm_1102	GATA3, NGN2, OTX1, OTX2, HES5                
+chr1_crm_1103	GATA3, OTX1, OTX2, HES5, HES5, NGN2               
+chr1_crm_1104	OTX1, OTX2, FOXP2, HES5, GATA3, GATA3               
+chr1_crm_1105	GATA3, OTX1, OTX2, NGN2, FOXP2, HES5, HES5              
+chr1_crm_1106	GATA3, OTX1, OTX2, HES5, HES5, FOXP2               
+chr1_crm_1107	OTX1, OTX2, GATA3, HES5, FOXP2                
+chr1_crm_1108	GATA3, HES5, NGN2, OTX1, OTX2                
+chr1_crm_1109	NGN2, GATA3, OTX1, OTX1, OTX2, HES5               
+chr1_crm_1110	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1111	HES5, OTX1, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1112	GATA3, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1113	OTX1, OTX2, HES5, GATA3, HES5, GATA3, FOXP2, HES5             
+chr1_crm_1114	FOXP2, NGN2, HES5, OTX2, OTX2, GATA3, FOXP2, NGN2, GATA3            
+chr1_crm_1115	FOXP2, HES5, GATA3, GATA3, OTX1, OTX2, FOXP2, FOXP2             
+chr1_crm_1116	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_1117	GATA3, GATA3, OTX1, OTX2, FOXP2, GATA3, HES5              
+chr1_crm_1118	HES5, OTX1, OTX2, GATA3, NGN2                
+chr1_crm_1119	FOXP2, FOXP2, GATA3, NGN2, HES5, GATA3, OTX1, OTX2, FOXP2            
+chr1_crm_1120	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1121	GATA3, GATA3, NGN2, OTX1, OTX2, HES5               
+chr1_crm_1122	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_1123	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1124	NGN2, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2              
+chr1_crm_1125	FOXP2, OTX1, OTX2, NGN2, HES5                
+chr1_crm_1126	OTX1, OTX2, NGN2, HES5, GATA3, GATA3               
+chr1_crm_1127	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_1128	HES5, FOXP2, FOXP2, GATA3, OTX1, OTX2, HES5, HES5             
+chr1_crm_1129	GATA3, GATA3, GATA3, OTX2, OTX2, FOXP2, HES5, OTX1, OTX2, HES5, HES5, GATA3, HES5        
+chr1_crm_1130	HES5, GATA3, GATA3, NGN2, HES5, GATA3, OTX1, OTX2             
+chr1_crm_1131	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_1132	HES5, GATA3, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_1133	OTX1, OTX2, GATA3, GATA3, FOXP2, FOXP2, GATA3, HES5, GATA3            
+chr1_crm_1134	GATA3, GATA3, FOXP2, HES5, OTX1, OTX2               
+chr1_crm_1135	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_1136	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_1137	OTX1, OTX2, HES5, GATA3, HES5, FOXP2               
+chr1_crm_1138	HES5, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_1139	NGN2, GATA3, OTX1, OTX2, FOXP2, GATA3, FOXP2, FOXP2, OTX1, OTX2           
+chr1_crm_1140	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1141	GATA3, HES5, FOXP2, FOXP2, NGN2, OTX1, OTX2              
+chr1_crm_1142	NGN2, OTX1, OTX2, FOXP2, FOXP2, GATA3               
+chr1_crm_1143	OTX1, OTX1, OTX2, NGN2, FOXP2, GATA3, OTX1, OTX2             
+chr1_crm_1144	OTX2, OTX2, HES5, OTX1, OTX2, FOXP2, GATA3              
+chr1_crm_1145	HES5, OTX1, OTX2, FOXP2, GATA3, GATA3, NGN2, GATA3, HES5            
+chr1_crm_1146	FOXP2, GATA3, NGN2, HES5, FOXP2, OTX1, OTX2              
+chr1_crm_1147	OTX1, OTX1, OTX2, NGN2, FOXP2, GATA3               
+chr1_crm_1148	HES5, GATA3, FOXP2, OTX1, OTX2, FOXP2               
+chr1_crm_1149	FOXP2, GATA3, OTX1, OTX2, FOXP2, OTX1, OTX2, NGN2             
+chr1_crm_1150	FOXP2, FOXP2, HES5, OTX1, OTX2, GATA3, OTX1, OTX2             
+chr1_crm_1151	GATA3, OTX1, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_1152	OTX1, OTX2, FOXP2, NGN2, HES5, OTX1, OTX2              
+chr1_crm_1153	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1154	HES5, GATA3, OTX1, OTX2, OTX1, OTX2, OTX1, OTX2, HES5, HES5, FOXP2, GATA3, GATA3        
+chr1_crm_1155	HES5, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_1156	OTX1, OTX2, FOXP2, NGN2, HES5, FOXP2, GATA3, GATA3, GATA3, NGN2           
+chr1_crm_1157	GATA3, HES5, OTX1, OTX2, OTX1, OTX2, FOXP2              
+chr1_crm_1158	FOXP2, HES5, OTX1, OTX2, OTX1, OTX2, GATA3, NGN2             
+chr1_crm_1159	GATA3, GATA3, OTX1, OTX2, HES5, FOXP2, GATA3, GATA3, GATA3, HES5           
+chr1_crm_1160	OTX1, OTX2, FOXP2, HES5, GATA3, GATA3, FOXP2, OTX1, OTX2, NGN2           
+chr1_crm_1161	OTX1, OTX2, GATA3, OTX1, OTX2, HES5, GATA3, FOXP2, HES5            
+chr1_crm_1163	GATA3, FOXP2, FOXP2, NGN2, OTX1, OTX2, FOXP2              
+chr1_crm_1164	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_1165	HES5, OTX1, OTX2, GATA3, GATA3, OTX1, OTX2, FOXP2             
+chr1_crm_1166	HES5, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_1167	GATA3, FOXP2, OTX1, OTX2, HES5, HES5               
+chr1_crm_1168	GATA3, OTX1, OTX1, OTX2, FOXP2, NGN2               
+chr1_crm_1169	HES5, HES5, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1170	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_1171	GATA3, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_1172	HES5, OTX1, OTX2, HES5, GATA3, FOXP2               
+chr1_crm_1173	NGN2, FOXP2, GATA3, OTX1, OTX2, HES5               
+chr1_crm_1174	OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3, HES5              
+chr1_crm_1175	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1176	OTX1, OTX2, NGN2, FOXP2, HES5                
+chr1_crm_1177	HES5, FOXP2, OTX1, OTX2, GATA3, GATA3               
+chr1_crm_1178	GATA3, OTX1, OTX2, HES5, OTX2, OTX2, GATA3, GATA3, FOXP2, HES5           
+chr1_crm_1179	GATA3, OTX1, OTX2, FOXP2, HES5, OTX2, OTX2              
+chr1_crm_1180	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1181	HES5, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1182	GATA3, FOXP2, OTX1, OTX1, OTX2, HES5, HES5              
+chr1_crm_1183	GATA3, FOXP2, GATA3, GATA3, FOXP2, HES5, OTX1, OTX2, GATA3, OTX1, OTX1, OTX2         
+chr1_crm_1184	FOXP2, OTX1, OTX2, GATA3, HES5, GATA3, HES5              
+chr1_crm_1185	FOXP2, HES5, OTX1, OTX2, NGN2                
+chr1_crm_1186	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2               
+chr1_crm_1187	OTX1, OTX2, OTX2, OTX2, FOXP2, HES5, GATA3, FOXP2, HES5            
+chr1_crm_1188	HES5, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_1189	GATA3, NGN2, HES5, OTX1, OTX2, OTX1, OTX1, OTX2             
+chr1_crm_1190	GATA3, OTX1, OTX2, HES5, NGN2                
+chr1_crm_1191	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_1192	GATA3, GATA3, FOXP2, NGN2, OTX1, OTX2               
+chr1_crm_1193	FOXP2, OTX2, OTX2, GATA3, NGN2, HES5               
+chr1_crm_1194	NGN2, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1195	GATA3, HES5, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_1196	FOXP2, HES5, GATA3, GATA3, OTX1, OTX2, HES5, HES5, NGN2            
+chr1_crm_1197	HES5, GATA3, OTX1, OTX2, FOXP2, HES5, GATA3, GATA3, OTX1, OTX2, HES5          
+chr1_crm_1198	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1199	GATA3, FOXP2, FOXP2, FOXP2, GATA3, HES5, OTX1, OTX2, HES5            
+chr1_crm_1200	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1201	GATA3, GATA3, HES5, HES5, HES5, HES5, FOXP2, HES5, FOXP2, FOXP2, OTX1, OTX2         
+chr1_crm_1202	OTX1, OTX2, FOXP2, HES5, GATA3, FOXP2               
+chr1_crm_1203	FOXP2, OTX1, OTX2, GATA3, GATA3, HES5               
+chr1_crm_1204	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_1205	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1206	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1207	GATA3, NGN2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_1208	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1209	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_1210	OTX1, OTX2, HES5, GATA3, HES5, FOXP2               
+chr1_crm_1211	OTX1, OTX2, FOXP2, HES5, HES5, GATA3, FOXP2, GATA3, GATA3, GATA3           
+chr1_crm_1212	GATA3, OTX1, OTX2, GATA3, FOXP2, HES5, NGN2              
+chr1_crm_1213	HES5, OTX1, OTX2, FOXP2, FOXP2, GATA3               
+chr1_crm_1214	GATA3, NGN2, HES5, FOXP2, GATA3, OTX1, OTX2              
+chr1_crm_1215	HES5, HES5, HES5, GATA3, FOXP2, OTX1, OTX1, OTX2, GATA3, FOXP2           
+chr1_crm_1216	FOXP2, NGN2, OTX1, OTX2, NGN2, HES5               
+chr1_crm_1217	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_1218	HES5, GATA3, OTX1, OTX1, OTX2, FOXP2               
+chr1_crm_1219	GATA3, NGN2, HES5, OTX1, OTX2, FOXP2, HES5, HES5             
+chr1_crm_1220	OTX1, OTX2, FOXP2, GATA3, HES5                
+chr1_crm_1221	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1222	OTX1, OTX2, GATA3, GATA3, HES5, FOXP2               
+chr1_crm_1223	GATA3, NGN2, OTX1, OTX2, FOXP2, OTX1, OTX1, OTX2, NGN2            
+chr1_crm_1224	HES5, HES5, FOXP2, OTX1, OTX2, GATA3               
+chr1_crm_1225	HES5, GATA3, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_1226	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1227	GATA3, GATA3, GATA3, NGN2, HES5, OTX1, OTX2              
+chr1_crm_1228	FOXP2, HES5, NGN2, OTX1, OTX1, OTX2, FOXP2, HES5             
+chr1_crm_1229	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1230	FOXP2, OTX1, OTX2, GATA3, FOXP2, FOXP2, HES5, FOXP2             
+chr1_crm_1231	FOXP2, HES5, NGN2, GATA3, OTX1, OTX2               
+chr1_crm_1232	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_1233	HES5, HES5, HES5, OTX1, OTX2, NGN2, HES5, GATA3, OTX1, OTX2           
+chr1_crm_1234	OTX1, OTX1, OTX2, HES5, FOXP2, GATA3               
+chr1_crm_1235	OTX1, OTX2, NGN2, FOXP2, HES5, OTX1, OTX2, FOXP2             
+chr1_crm_1236	OTX1, OTX2, FOXP2, GATA3, GATA3, HES5               
+chr1_crm_1237	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1238	OTX1, OTX2, OTX1, OTX2, GATA3, GATA3, HES5, FOXP2, OTX1, OTX2           
+chr1_crm_1239	HES5, GATA3, OTX1, OTX2, OTX1, OTX2, FOXP2, GATA3             
+chr1_crm_1240	GATA3, OTX1, OTX2, OTX1, OTX2, NGN2, HES5, GATA3, OTX1, OTX2           
+chr1_crm_1241	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1242	OTX1, OTX2, FOXP2, FOXP2, GATA3, HES5, FOXP2, HES5, GATA3            
+chr1_crm_1243	NGN2, FOXP2, FOXP2, OTX1, OTX2, GATA3, HES5              
+chr1_crm_1244	HES5, OTX1, OTX2, FOXP2, NGN2, GATA3               
+chr1_crm_1245	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1246	FOXP2, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_1247	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1248	GATA3, HES5, FOXP2, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_1249	OTX1, OTX2, FOXP2, HES5, OTX1, OTX2, HES5, NGN2, GATA3            
+chr1_crm_1250	HES5, OTX1, OTX2, NGN2, GATA3, FOXP2, HES5              
+chr1_crm_1251	GATA3, FOXP2, OTX1, OTX2, GATA3, HES5               
+chr1_crm_1252	HES5, FOXP2, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1253	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_1254	GATA3, GATA3, GATA3, HES5, OTX1, OTX2, NGN2              
+chr1_crm_1255	FOXP2, OTX2, OTX2, GATA3, HES5, OTX1, OTX2, HES5             
+chr1_crm_1256	HES5, OTX1, OTX2, GATA3, GATA3, FOXP2, HES5              
+chr1_crm_1257	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_1258	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1259	FOXP2, NGN2, HES5, OTX1, OTX2, HES5               
+chr1_crm_1260	GATA3, OTX1, OTX2, HES5, FOXP2, GATA3, FOXP2              
+chr1_crm_1261	OTX2, OTX2, OTX1, OTX2, GATA3, HES5, FOXP2              
+chr1_crm_1262	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1263	FOXP2, NGN2, GATA3, OTX1, OTX2, GATA3, OTX1, OTX2, FOXP2            
+chr1_crm_1264	FOXP2, GATA3, HES5, FOXP2, GATA3, GATA3, OTX1, OTX1, OTX2            
+chr1_crm_1265	OTX1, OTX2, GATA3, GATA3, HES5, FOXP2               
+chr1_crm_1266	HES5, FOXP2, OTX1, OTX2, GATA3, HES5               
+chr1_crm_1267	HES5, OTX1, OTX2, FOXP2, NGN2                
+chr1_crm_1268	NGN2, OTX1, OTX2, HES5, GATA3, GATA3, FOXP2              
+chr1_crm_1269	OTX1, OTX2, HES5, HES5, GATA3, FOXP2               
+chr1_crm_1270	FOXP2, HES5, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1271	HES5, HES5, GATA3, OTX1, OTX2, OTX1, OTX2, FOXP2             
+chr1_crm_1272	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1273	OTX1, OTX1, OTX2, NGN2, HES5, FOXP2               
+chr1_crm_1274	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1275	OTX1, OTX2, FOXP2, OTX1, OTX2, HES5, NGN2, FOXP2, GATA3, HES5           
+chr1_crm_1276	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_1277	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1278	GATA3, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_1279	FOXP2, HES5, HES5, GATA3, OTX1, OTX2, HES5              
+chr1_crm_1280	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1281	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1282	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1283	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1284	GATA3, OTX1, OTX2, GATA3, FOXP2, HES5               
+chr1_crm_1285	HES5, OTX1, OTX2, NGN2, GATA3, FOXP2, NGN2              
+chr1_crm_1286	HES5, GATA3, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1287	NGN2, OTX1, OTX2, HES5, HES5, FOXP2               
+chr1_crm_1288	GATA3, FOXP2, FOXP2, OTX1, OTX2, HES5               
+chr1_crm_1289	GATA3, OTX1, OTX2, OTX1, OTX2, FOXP2, NGN2              
+chr1_crm_1290	FOXP2, GATA3, GATA3, OTX1, OTX2, HES5               
+chr1_crm_1291	OTX1, OTX2, GATA3, FOXP2, HES5, GATA3               
+chr1_crm_1292	HES5, GATA3, OTX1, OTX2, NGN2                
+chr1_crm_1293	HES5, HES5, GATA3, NGN2, OTX1, OTX2               
+chr1_crm_1294	OTX1, OTX2, HES5, FOXP2, HES5, FOXP2, GATA3              
+chr1_crm_1295	GATA3, OTX1, OTX2, FOXP2, FOXP2, HES5, HES5              
+chr1_crm_1296	GATA3, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1297	HES5, GATA3, NGN2, HES5, OTX1, OTX2, OTX1, OTX2, FOXP2            
+chr1_crm_1298	OTX1, OTX2, OTX1, OTX2, HES5, GATA3, FOXP2              
+chr1_crm_1299	FOXP2, GATA3, FOXP2, HES5, OTX1, OTX2, FOXP2              
+chr1_crm_1300	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_1301	FOXP2, OTX1, OTX2, GATA3, FOXP2, HES5, HES5, GATA3, HES5, HES5           
+chr1_crm_1302	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1303	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_1304	FOXP2, OTX1, OTX2, GATA3, FOXP2, HES5, HES5, GATA3, HES5, HES5           
+chr1_crm_1305	GATA3, GATA3, HES5, OTX1, OTX2, FOXP2, OTX1, OTX2             
+chr1_crm_1306	NGN2, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1307	GATA3, HES5, NGN2, HES5, NGN2, HES5, HES5, GATA3, OTX1, OTX2           
+chr1_crm_1308	FOXP2, GATA3, FOXP2, FOXP2, OTX1, OTX2, HES5              
+chr1_crm_1309	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_1310	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1311	GATA3, HES5, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1312	NGN2, HES5, FOXP2, FOXP2, OTX1, OTX2               
+chr1_crm_1313	HES5, OTX1, OTX2, GATA3, OTX1, OTX2, FOXP2              
+chr1_crm_1314	HES5, GATA3, OTX1, OTX2, FOXP2, NGN2               
+chr1_crm_1315	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1316	GATA3, HES5, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1317	GATA3, OTX1, OTX2, FOXP2, OTX1, OTX2, HES5              
+chr1_crm_1318	OTX1, OTX2, FOXP2, GATA3, OTX1, OTX2, NGN2, OTX1, OTX2            
+chr1_crm_1319	GATA3, GATA3, HES5, OTX1, OTX2, FOXP2, OTX1, OTX2             
+chr1_crm_1320	NGN2, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1321	OTX1, OTX2, FOXP2, GATA3, OTX1, OTX2, NGN2, OTX1, OTX2            
+chr1_crm_1322	HES5, OTX1, OTX2, HES5, GATA3, FOXP2               
+chr1_crm_1323	GATA3, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1324	OTX1, OTX2, NGN2, GATA3, FOXP2, NGN2               
+chr1_crm_1325	GATA3, HES5, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_1326	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1327	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_1328	OTX1, OTX2, HES5, GATA3, FOXP2, GATA3               
+chr1_crm_1329	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1330	OTX1, OTX2, HES5, GATA3, NGN2                
+chr1_crm_1331	OTX1, OTX2, HES5, GATA3, HES5, HES5, NGN2              
+chr1_crm_1332	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_1333	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1334	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_1335	OTX1, OTX2, GATA3, OTX1, OTX2, FOXP2, GATA3, FOXP2, HES5, GATA3           
+chr1_crm_1336	GATA3, OTX1, OTX2, FOXP2, HES5, GATA3, GATA3              
+chr1_crm_1337	FOXP2, HES5, HES5, GATA3, HES5, GATA3, OTX1, OTX2             
+chr1_crm_1338	FOXP2, FOXP2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_1339	HES5, NGN2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_1340	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1341	OTX1, OTX2, GATA3, HES5, OTX1, OTX2, FOXP2, OTX1, OTX2            
+chr1_crm_1342	NGN2, FOXP2, GATA3, OTX1, OTX2, GATA3, GATA3              
+chr1_crm_1343	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1344	FOXP2, GATA3, HES5, OTX1, OTX2, NGN2               
+chr1_crm_1345	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_1346	GATA3, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1347	HES5, GATA3, NGN2, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_1348	OTX1, OTX2, HES5, GATA3, GATA3, FOXP2, OTX1, OTX1, OTX2, OTX1, OTX2, HES5         
+chr1_crm_1349	OTX1, OTX2, HES5, GATA3, FOXP2, GATA3               
+chr1_crm_1350	NGN2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_1351	GATA3, NGN2, HES5, OTX1, OTX2, GATA3, HES5              
+chr1_crm_1352	GATA3, FOXP2, HES5, OTX2, OTX2, HES5, NGN2, FOXP2             
+chr1_crm_1353	FOXP2, FOXP2, HES5, GATA3, GATA3, OTX1, OTX2              
+chr1_crm_1354	FOXP2, NGN2, HES5, OTX1, OTX2, FOXP2, OTX1, OTX2, GATA3            
+chr1_crm_1355	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1356	FOXP2, HES5, GATA3, GATA3, OTX1, OTX2, FOXP2, OTX2, OTX2            
+chr1_crm_1357	NGN2, FOXP2, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1358	GATA3, NGN2, HES5, OTX1, OTX2                
+chr1_crm_1359	HES5, HES5, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_1360	HES5, OTX1, OTX2, NGN2, FOXP2, HES5               
+chr1_crm_1361	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1362	GATA3, OTX1, OTX2, FOXP2, NGN2, HES5, GATA3              
+chr1_crm_1363	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_1364	FOXP2, HES5, GATA3, HES5, OTX1, OTX2               
+chr1_crm_1365	HES5, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1366	OTX1, OTX2, HES5, GATA3, NGN2, GATA3               
+chr1_crm_1367	HES5, NGN2, HES5, OTX1, OTX1, OTX2, GATA3, HES5             
+chr1_crm_1368	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_1369	OTX1, OTX2, HES5, HES5, GATA3, FOXP2               
+chr1_crm_1370	GATA3, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1371	HES5, OTX1, OTX2, GATA3, HES5, FOXP2, GATA3              
+chr1_crm_1372	FOXP2, NGN2, OTX1, OTX2, GATA3, GATA3               
+chr1_crm_1373	HES5, OTX1, OTX2, FOXP2, GATA3, OTX1, OTX2, NGN2, FOXP2            
+chr1_crm_1374	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1375	OTX1, OTX2, GATA3, HES5, HES5, FOXP2, FOXP2              
+chr1_crm_1376	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1377	GATA3, GATA3, GATA3, GATA3, GATA3, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2          
+chr1_crm_1378	GATA3, OTX1, OTX2, HES5, HES5, FOXP2, NGN2              
+chr1_crm_1379	NGN2, HES5, HES5, OTX1, OTX2, FOXP2               
+chr1_crm_1380	FOXP2, OTX1, OTX2, GATA3, HES5, HES5, GATA3              
+chr1_crm_1381	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1382	GATA3, OTX1, OTX1, OTX2, HES5, FOXP2               
+chr1_crm_1383	OTX1, OTX2, GATA3, HES5, FOXP2, FOXP2, GATA3              
+chr1_crm_1384	FOXP2, GATA3, OTX1, OTX2, OTX1, OTX2, HES5              
+chr1_crm_1386	HES5, FOXP2, HES5, GATA3, OTX1, OTX2, GATA3              
+chr1_crm_1387	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_1388	OTX1, OTX2, GATA3, NGN2, OTX1, OTX2, OTX1, OTX2, HES5, OTX2, OTX2          
+chr1_crm_1389	GATA3, HES5, FOXP2, FOXP2, OTX1, OTX2, HES5              
+chr1_crm_1390	FOXP2, FOXP2, FOXP2, OTX1, OTX2, HES5, OTX1, OTX2, GATA3            
+chr1_crm_1391	HES5, NGN2, FOXP2, OTX1, OTX2                
+chr1_crm_1392	GATA3, GATA3, NGN2, HES5, OTX1, OTX2                    
+chr1_crm_1393	NGN2, HES5, FOXP2, OTX1, OTX2, GATA3               
+chr1_crm_1394	HES5, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_1395	NGN2, GATA3, HES5, FOXP2, FOXP2, OTX1, OTX2              
+chr1_crm_1396	HES5, NGN2, HES5, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_1397	OTX1, OTX2, GATA3, HES5, GATA3, FOXP2               
+chr1_crm_1398	FOXP2, FOXP2, HES5, HES5, OTX1, OTX2, GATA3              
+chr1_crm_1399	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1400	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1401	GATA3, FOXP2, FOXP2, OTX1, OTX2, GATA3, HES5, NGN2, GATA3            
+chr1_crm_1402	HES5, FOXP2, OTX1, OTX2, NGN2, GATA3               
+chr1_crm_1403	OTX1, OTX2, NGN2, GATA3, GATA3, GATA3, HES5              
+chr1_crm_1404	HES5, FOXP2, HES5, GATA3, OTX1, OTX2               
+chr1_crm_1405	OTX1, OTX2, GATA3, NGN2, HES5, OTX1, OTX2              
+chr1_crm_1406	FOXP2, HES5, NGN2, OTX1, OTX2                
+chr1_crm_1407	NGN2, HES5, GATA3, OTX1, OTX2, HES5               
+chr1_crm_1408	OTX1, OTX2, HES5, GATA3, FOXP2, GATA3               
+chr1_crm_1409	GATA3, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1410	HES5, OTX1, OTX1, OTX2, HES5, HES5, GATA3, HES5, NGN2            
+chr1_crm_1411	OTX1, OTX2, HES5, GATA3, FOXP2                
+chr1_crm_1412	GATA3, FOXP2, OTX1, OTX2, FOXP2, HES5, GATA3              
+chr1_crm_1413	GATA3, OTX1, OTX2, FOXP2, GATA3, FOXP2, HES5              
+chr1_crm_1414	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1415	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1416	NGN2, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1417	HES5, HES5, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1418	HES5, HES5, GATA3, OTX1, OTX2, FOXP2, HES5, GATA3             
+chr1_crm_1419	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_1420	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1421	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1422	HES5, GATA3, HES5, FOXP2, OTX1, OTX2, HES5              
+chr1_crm_1423	HES5, OTX1, OTX2, GATA3, FOXP2                
+chr1_crm_1424	HES5, FOXP2, FOXP2, HES5, FOXP2, GATA3, OTX1, OTX2             
+chr1_crm_1425	NGN2, OTX1, OTX2, OTX1, OTX2, HES5, OTX1, OTX2, OTX1, OTX2, HES5, GATA3         
+chr1_crm_1426	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1427	GATA3, HES5, OTX1, OTX2, NGN2                
+chr1_crm_1428	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_1429	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1430	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_1431	OTX1, OTX2, NGN2, GATA3, HES5                
+chr1_crm_1432	GATA3, FOXP2, FOXP2, OTX1, OTX2, NGN2               
+chr1_crm_1433	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_1435	NGN2, HES5, GATA3, GATA3, OTX1, OTX1, OTX2              
+chr1_crm_1436	FOXP2, OTX1, OTX2, HES5, NGN2                
+chr1_crm_1437	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_1438	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1439	HES5, OTX1, OTX2, OTX1, OTX2, GATA3, FOXP2, GATA3             
+chr1_crm_1440	FOXP2, GATA3, GATA3, OTX1, OTX2, HES5, FOXP2              
+chr1_crm_1441	GATA3, NGN2, OTX1, OTX2, GATA3, HES5, GATA3, HES5, GATA3, HES5, GATA3          
+chr1_crm_1442	HES5, OTX1, OTX2, GATA3, NGN2                
+chr1_crm_1443	GATA3, FOXP2, GATA3, NGN2, OTX1, OTX2, HES5, FOXP2, HES5, FOXP2           
+chr1_crm_1444	OTX1, OTX2, HES5, FOXP2, GATA3, GATA3               
+chr1_crm_1445	HES5, OTX1, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1446	HES5, HES5, GATA3, OTX1, OTX2, HES5, FOXP2, FOXP2             
+chr1_crm_1447	GATA3, OTX1, OTX2, FOXP2, HES5                
+chr1_crm_1448	GATA3, FOXP2, HES5, OTX1, OTX2, HES5               
+chr1_crm_1449	GATA3, GATA3, FOXP2, FOXP2, NGN2, OTX1, OTX1, OTX2             
+chr1_crm_1450	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_1451	OTX1, OTX2, FOXP2, GATA3, NGN2                
+chr1_crm_1452	HES5, GATA3, HES5, OTX1, OTX2, GATA3, FOXP2              
+chr1_crm_1453	GATA3, FOXP2, OTX1, OTX2, HES5, GATA3, NGN2              
+chr1_crm_1454	FOXP2, OTX1, OTX1, OTX2, HES5, FOXP2, GATA3              
+chr1_crm_1455	OTX1, OTX1, OTX2, OTX1, OTX2, NGN2, FOXP2, GATA3             
+chr1_crm_1456	OTX1, OTX1, OTX2, GATA3, NGN2, FOXP2               
+chr1_crm_1457	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_1458	HES5, NGN2, FOXP2, OTX1, OTX2, HES5               
+chr1_crm_1459	GATA3, GATA3, GATA3, GATA3, GATA3, FOXP2, OTX1, OTX2, HES5, OTX1, OTX2          
+chr1_crm_1460	GATA3, FOXP2, OTX1, OTX2, HES5, GATA3               
+chr1_crm_1461	FOXP2, OTX1, OTX2, HES5, GATA3, FOXP2               
+chr1_crm_1462	NGN2, OTX1, OTX2, GATA3, FOXP2, FOXP2, GATA3              
+chr1_crm_1463	GATA3, FOXP2, FOXP2, HES5, OTX1, OTX2, HES5, HES5, NGN2            
+chr1_crm_1464	HES5, HES5, FOXP2, HES5, GATA3, FOXP2, OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, OTX1, OTX2       
+chr1_crm_1465	FOXP2, OTX1, OTX2, GATA3, HES5, OTX1, OTX1, OTX2             
+chr1_crm_1466	NGN2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1467	OTX1, OTX2, NGN2, FOXP2, GATA3                
+chr1_crm_1468	FOXP2, HES5, GATA3, OTX1, OTX2, FOXP2               
+chr1_crm_1469	GATA3, NGN2, OTX1, OTX2, FOXP2                
+chr1_crm_1470	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1471	GATA3, HES5, OTX1, OTX2, NGN2, HES5, GATA3              
+chr1_crm_1472	FOXP2, OTX1, OTX2, GATA3, HES5, HES5, HES5              
+chr1_crm_1473	HES5, FOXP2, GATA3, HES5, OTX2, OTX2, GATA3, NGN2, FOXP2, GATA3           
+chr1_crm_1474	OTX1, OTX2, GATA3, HES5, NGN2                
+chr1_crm_1475	OTX1, OTX2, HES5, GATA3, GATA3, GATA3, NGN2, GATA3, FOXP2            
+chr1_crm_1476	OTX1, OTX1, OTX2, HES5, GATA3, FOXP2, OTX1, OTX2, HES5            
+chr1_crm_1477	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1478	OTX1, OTX2, GATA3, HES5, FOXP2                
+chr1_crm_1479	OTX1, OTX2, GATA3, GATA3, FOXP2, HES5               
+chr1_crm_1480	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1481	OTX1, OTX2, GATA3, FOXP2, NGN2                
+chr1_crm_1482	HES5, NGN2, FOXP2, OTX1, OTX2, HES5               
+chr1_crm_1483	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_1484	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1485	OTX1, OTX2, FOXP2, NGN2, HES5                
+chr1_crm_1486	HES5, OTX1, OTX2, GATA3, GATA3, NGN2, FOXP2              
+chr1_crm_1487	FOXP2, FOXP2, OTX1, OTX2, GATA3, GATA3, HES5, FOXP2             
+chr1_crm_1488	HES5, FOXP2, OTX1, OTX1, OTX2, GATA3               
+chr1_crm_1489	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_1490	HES5, HES5, GATA3, FOXP2, FOXP2, OTX1, OTX2, NGN2             
+chr1_crm_1491	FOXP2, NGN2, FOXP2, OTX1, OTX1, OTX2, HES5, GATA3             
+chr1_crm_1492	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_1493	HES5, GATA3, FOXP2, OTX1, OTX1, OTX2, OTX2, OTX2             
+chr1_crm_1494	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1495	OTX1, OTX2, NGN2, HES5, FOXP2, GATA3               
+chr1_crm_1496	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1497	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_1498	OTX1, OTX2, HES5, NGN2, OTX1, OTX2, FOXP2, GATA3             
+chr1_crm_1499	OTX1, OTX2, FOXP2, GATA3, HES5, FOXP2               
+chr1_crm_1500	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1501	HES5, OTX1, OTX1, OTX2, GATA3, FOXP2, GATA3              
+chr1_crm_1502	GATA3, OTX1, OTX1, OTX2, OTX1, OTX2, FOXP2, HES5             
+chr1_crm_1503	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1504	NGN2, OTX1, OTX2, FOXP2, HES5, GATA3               
+chr1_crm_1505	NGN2, HES5, GATA3, OTX1, OTX2, OTX1, OTX2              
+chr1_crm_1506	HES5, NGN2, GATA3, OTX1, OTX2                
+chr1_crm_1507	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1508	OTX1, OTX2, HES5, GATA3, HES5, FOXP2               
+chr1_crm_1509	GATA3, NGN2, OTX1, OTX2, GATA3, HES5, FOXP2              
+chr1_crm_1510	GATA3, GATA3, NGN2, HES5, OTX1, OTX2               
+chr1_crm_1511	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_1512	NGN2, GATA3, HES5, OTX1, OTX1, OTX2               
+chr1_crm_1513	GATA3, OTX1, OTX2, FOXP2, HES5, OTX2, OTX2              
+chr1_crm_1514	FOXP2, FOXP2, HES5, OTX1, OTX1, OTX2, GATA3              
+chr1_crm_1515	GATA3, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1516	GATA3, HES5, NGN2, HES5, OTX1, OTX2               
+chr1_crm_1517	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1518	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_1519	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_1520	HES5, FOXP2, GATA3, OTX1, OTX2                
+chr1_crm_1521	NGN2, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1522	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1523	NGN2, GATA3, FOXP2, FOXP2, OTX1, OTX2, HES5, GATA3, FOXP2            
+chr1_crm_1524	OTX1, OTX2, GATA3, NGN2, HES5                
+chr1_crm_1525	HES5, OTX1, OTX2, GATA3, FOXP2, FOXP2               
+chr1_crm_1526	OTX1, OTX2, NGN2, GATA3, HES5, HES5               
+chr1_crm_1527	GATA3, OTX1, OTX2, OTX1, OTX2, HES5, HES5, HES5, FOXP2, GATA3           
+chr1_crm_1528	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1529	OTX1, OTX2, HES5, GATA3, FOXP2, OTX1, OTX2, HES5             
+chr1_crm_1530	HES5, HES5, OTX1, OTX2, HES5, NGN2, FOXP2              
+chr1_crm_1531	NGN2, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1532	OTX1, OTX2, GATA3, HES5, FOXP2                
+chr1_crm_1533	FOXP2, OTX1, OTX1, OTX2, GATA3, HES5, HES5              
+chr1_crm_1534	OTX1, OTX2, NGN2, GATA3, GATA3, HES5               
+chr1_crm_1535	FOXP2, FOXP2, OTX1, OTX1, OTX2, HES5, GATA3, GATA3, HES5, HES5, GATA3, FOXP2         
+chr1_crm_1536	HES5, FOXP2, OTX1, OTX2, GATA3, HES5, HES5, GATA3             
+chr1_crm_1537	GATA3, GATA3, GATA3, OTX1, OTX2, NGN2, HES5, OTX1, OTX2            
+chr1_crm_1538	FOXP2, OTX1, OTX1, OTX2, HES5, NGN2               
+chr1_crm_1539	HES5, GATA3, FOXP2, OTX1, OTX1, OTX2, GATA3              
+chr1_crm_1540	HES5, NGN2, OTX1, OTX2, HES5, GATA3, GATA3              
+chr1_crm_1541	HES5, OTX1, OTX2, NGN2, GATA3                
+chr1_crm_1542	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1543	OTX1, OTX2, FOXP2, GATA3, NGN2, FOXP2               
+chr1_crm_1544	HES5, OTX1, OTX2, OTX1, OTX2, GATA3, HES5, NGN2, GATA3            
+chr1_crm_1545	OTX1, OTX2, GATA3, FOXP2, NGN2                
+chr1_crm_1546	GATA3, GATA3, HES5, FOXP2, GATA3, OTX1, OTX2              
+chr1_crm_1547	OTX1, OTX2, GATA3, FOXP2, HES5, FOXP2, FOXP2, OTX2, OTX2, HES5           
+chr1_crm_1548	OTX1, OTX2, GATA3, GATA3, HES5, OTX1, OTX2, FOXP2, GATA3            
+chr1_crm_1549	NGN2, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1550	FOXP2, HES5, OTX1, OTX2, GATA3                
+chr1_crm_1551	GATA3, OTX1, OTX2, HES5, FOXP2                
+chr1_crm_1552	FOXP2, NGN2, HES5, OTX1, OTX2                
+chr1_crm_1553	GATA3, FOXP2, NGN2, OTX1, OTX2                
+chr1_crm_1554	OTX1, OTX2, HES5, FOXP2, FOXP2, GATA3, FOXP2, OTX1, OTX2            
+chr1_crm_1555	HES5, OTX1, OTX2, NGN2, GATA3, GATA3               
+chr1_crm_1556	NGN2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1557	OTX1, OTX2, OTX1, OTX2, GATA3, HES5, FOXP2              
+chr1_crm_1558	FOXP2, HES5, HES5, NGN2, OTX1, OTX2               
+chr1_crm_1559	GATA3, GATA3, OTX1, OTX2, FOXP2, HES5               
+chr1_crm_1560	GATA3, FOXP2, OTX1, OTX2, HES5                
+chr1_crm_1561	GATA3, HES5, GATA3, OTX1, OTX2, HES5, FOXP2, HES5             
+chr1_crm_1562	OTX1, OTX2, GATA3, FOXP2, NGN2                
+chr1_crm_1563	NGN2, OTX1, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1564	NGN2, OTX1, OTX2, FOXP2, NGN2, GATA3               
+chr1_crm_1565	NGN2, OTX1, OTX1, OTX2, FOXP2, NGN2, HES5, HES5, GATA3, GATA3           
+chr1_crm_1566	HES5, FOXP2, OTX1, OTX2, GATA3                
+chr1_crm_1567	GATA3, HES5, GATA3, OTX1, OTX2, NGN2, GATA3, GATA3, GATA3            
+chr1_crm_1568	HES5, OTX1, OTX2, OTX2, OTX2, FOXP2, GATA3              
+chr1_crm_1569	OTX1, OTX2, NGN2, GATA3, HES5, HES5               
+chr1_crm_1570	FOXP2, HES5, GATA3, OTX1, OTX2                
+chr1_crm_1571	OTX1, OTX2, HES5, FOXP2, GATA3                
+chr1_crm_1572	OTX1, OTX2, FOXP2, HES5, GATA3, GATA3, FOXP2, HES5             
+chr1_crm_1573	OTX1, OTX2, FOXP2, GATA3, HES5                
+chr1_crm_1574	OTX1, OTX2, HES5, GATA3, OTX1, OTX2, FOXP2              
+chr1_crm_1575	NGN2, GATA3, OTX1, OTX2, FOXP2, GATA3, GATA3, GATA3             
+chr1_crm_1576	FOXP2, NGN2, OTX1, OTX2, GATA3                
+chr1_crm_1577	HES5, FOXP2, OTX1, OTX2, FOXP2, NGN2               
+chr1_crm_1578	GATA3, OTX1, OTX2, NGN2, HES5, HES5               
+chr1_crm_1579	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_1580	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1581	FOXP2, GATA3, OTX1, OTX2, GATA3, GATA3, HES5              
+chr1_crm_1582	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_1583	OTX1, OTX2, OTX1, OTX2, NGN2, GATA3, FOXP2              
+chr1_crm_1584	FOXP2, GATA3, OTX1, OTX2, HES5                
+chr1_crm_1585	FOXP2, OTX1, OTX2, GATA3, FOXP2, NGN2, NGN2, GATA3             
+chr1_crm_1586	GATA3, FOXP2, OTX1, OTX2, GATA3, HES5, GATA3              
+chr1_crm_1587	GATA3, FOXP2, NGN2, FOXP2, OTX1, OTX2               
+chr1_crm_1588	GATA3, HES5, OTX1, OTX2, FOXP2, FOXP2               
+chr1_crm_1589	FOXP2, GATA3, FOXP2, HES5, GATA3, OTX1, OTX2              
+chr1_crm_1590	GATA3, HES5, FOXP2, GATA3, OTX1, OTX2               
+chr1_crm_1591	GATA3, HES5, NGN2, OTX1, OTX2                
+chr1_crm_1592	OTX1, OTX1, OTX2, FOXP2, GATA3, HES5               
+chr1_crm_1593	OTX1, OTX2, HES5, FOXP2, NGN2                
+chr1_crm_1594	HES5, GATA3, FOXP2, FOXP2, HES5, OTX1, OTX2, HES5             
+chr1_crm_1595	FOXP2, GATA3, NGN2, OTX1, OTX2                
+chr1_crm_1596	GATA3, HES5, FOXP2, OTX1, OTX2                
+chr1_crm_1597	NGN2, HES5, GATA3, GATA3, FOXP2, OTX1, OTX2              
+chr1_crm_1598	GATA3, FOXP2, OTX1, OTX1, OTX2, HES5, GATA3              
+chr1_crm_1599	NGN2, GATA3, GATA3, HES5, OTX1, OTX2               
+chr1_crm_1600	OTX1, OTX2, FOXP2, HES5, OTX1, OTX2, GATA3              
+chr1_crm_1601	FOXP2, OTX1, OTX2, GATA3, HES5, FOXP2               
+chr1_crm_1602	HES5, FOXP2, OTX1, OTX2, GATA3, GATA3, HES5              
+chr1_crm_1603	HES5, GATA3, FOXP2, OTX1, OTX2                
+chr1_crm_1604	OTX1, OTX2, GATA3, HES5, GATA3, GATA3, FOXP2, GATA3             
+chr1_crm_1605	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1606	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1607	OTX1, OTX2, OTX1, OTX2, GATA3, HES5, FOXP2              
+chr1_crm_1608	HES5, HES5, OTX1, OTX2, HES5, HES5, GATA3, GATA3, HES5, NGN2           
+chr1_crm_1609	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1610	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1611	OTX1, OTX2, NGN2, GATA3, HES5                
+chr1_crm_1612	HES5, OTX1, OTX2, GATA3, GATA3, FOXP2               
+chr1_crm_1613	FOXP2, GATA3, HES5, OTX1, OTX2, HES5, OTX1, OTX2             
+chr1_crm_1614	HES5, GATA3, OTX1, OTX2, FOXP2                
+chr1_crm_1615	HES5, GATA3, GATA3, GATA3, NGN2, NGN2, OTX1, OTX2             
+chr1_crm_1616	GATA3, HES5, OTX1, OTX2, HES5, GATA3, GATA3, FOXP2             
+chr1_crm_1617	NGN2, FOXP2, HES5, OTX1, OTX2                
+chr1_crm_1618	OTX1, OTX2, GATA3, FOXP2, HES5                
+chr1_crm_1619	OTX1, OTX2, NGN2, OTX1, OTX2, GATA3, GATA3, GATA3, FOXP2            
+chr1_crm_1620	GATA3, OTX1, OTX2, NGN2, HES5                
+chr1_crm_1621	HES5, HES5, OTX1, OTX2, FOXP2, GATA3               
+chr1_crm_1622	OTX1, OTX2, FOXP2, NGN2, GATA3                
+chr1_crm_1623	GATA3, OTX1, OTX2, GATA3, GATA3, FOXP2, HES5              
+chr1_crm_1624	HES5, GATA3, GATA3, OTX1, OTX2, FOXP2, FOXP2              
+chr1_crm_1625	FOXP2, GATA3, HES5, FOXP2, OTX1, OTX2               
+chr1_crm_1626	FOXP2, OTX1, OTX1, OTX2, HES5, FOXP2, OTX1, OTX2, FOXP2, GATA3, HES5, OTX1, OTX2, HES5       
+chr1_crm_1627	HES5, OTX1, OTX2, FOXP2, GATA3                
+chr1_crm_1628	FOXP2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_1629	OTX1, OTX1, OTX2, NGN2, FOXP2, HES5               
+chr1_crm_1630	GATA3, OTX1, OTX2, NGN2, FOXP2                
+chr1_crm_1631	GATA3, HES5, OTX1, OTX2, FOXP2, FOXP2               
+chr1_crm_1632	FOXP2, OTX1, OTX1, OTX2, HES5, FOXP2, GATA3              
+chr1_crm_1633	FOXP2, FOXP2, HES5, OTX1, OTX2, GATA3               
+chr1_crm_1634	HES5, OTX1, OTX2, HES5, FOXP2, GATA3, GATA3              
+chr1_crm_1635	FOXP2, GATA3, HES5, OTX1, OTX2                
+chr1_crm_1636	HES5, FOXP2, OTX1, OTX2, GATA3, FOXP2               
+chr1_crm_1637	OTX1, OTX2, FOXP2, HES5, GATA3                
+chr1_crm_1638	FOXP2, HES5, FOXP2, OTX2, OTX2, GATA3, HES5, FOXP2, OTX1, OTX2           
+chr1_crm_1639	GATA3, GATA3, HES5, NGN2, OTX1, OTX2               
+chr1_crm_1640	HES5, HES5, FOXP2, OTX1, OTX2, HES5, GATA3              
+chr1_crm_1641	HES5, OTX1, OTX2, NGN2, GATA3, HES5               
+chr1_crm_1642	GATA3, FOXP2, HES5, OTX2, OTX2, OTX1, OTX2, HES5, GATA3            
+chr1_crm_1643	GATA3, GATA3, FOXP2, HES5, HES5, OTX1, OTX2, GATA3             
+chr1_crm_1644	OTX1, OTX1, OTX2, FOXP2, HES5, HES5, GATA3, GATA3, GATA3            
+chr1_crm_1645	OTX1, OTX2, HES5, NGN2, HES5, HES5, FOXP2              
+chr1_crm_1646	OTX1, OTX2, HES5, GATA3, NGN2, GATA3, FOXP2              
+chr1_crm_1647	GATA3, OTX1, OTX2, FOXP2, HES5, OTX1, OTX2              
+chr1_crm_1648	FOXP2, OTX1, OTX2, HES5, GATA3                
+chr1_crm_1649	OTX1, OTX2, HES5, GATA3, FOXP2, HES5               
+chr1_crm_1650	OTX1, OTX2, FOXP2, NGN2, NGN2, GATA3, GATA3              
+chr1_crm_1651	GATA3, HES5, OTX1, OTX2, FOXP2                
+chr1_crm_1652	HES5, OTX1, OTX2, GATA3, FOXP2, GATA3               
+chr1_crm_1653	NGN2, OTX1, OTX2, GATA3, HES5                
+chr1_crm_1654	GATA3, OTX1, OTX2, GATA3, HES5, NGN2               
+chr1_crm_1655	OTX1, OTX2, GATA3, OTX1, OTX2, GATA3, HES5, GATA3, NGN2            
+chr1_crm_1656	GATA3, HES5, HES5, HES5, GATA3, FOXP2, OTX1, OTX2             
+chr1_crm_1657	HES5, HES5, FOXP2, OTX1, OTX2, GATA3               
+
