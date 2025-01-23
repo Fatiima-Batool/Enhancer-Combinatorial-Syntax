@@ -1,7 +1,7 @@
 Title of study: Motif Grammar Discovery of Human Forebrain-Specific Enhancers
 
 
-> Purpose: This python script was designed to perform the Market Basket Analysis (MBA) to study the co-occurrence of the transcription factors HES5, FOXP2, and GATA in a set of functional enancers using Apriori algorithm.
+> Purpose: This python script was designed to perform the Market Basket Analysis (MBA) to study the co-occurrence of the transcription factors HES5, FOXP2, and GATA in a set of functional enhancers using Apriori algorithm.
 
 > Operating system:
 Windows 10 (64 bit)
